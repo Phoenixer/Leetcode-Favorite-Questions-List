@@ -1,0 +1,993 @@
+,name1,name,liked,difficulty,passed,submitted,url
+0,1. 两数之和,Two Sum,7189,简单,"731,319","1,551,511",https://leetcode-cn.com/problems/two-sum
+1,2. 两数相加,Add Two Numbers,3573,中等,"279,234","771,788",https://leetcode-cn.com/problems/add-two-numbers
+2,3. 无重复字符的最长子串,Longest Substring Without Repeating Characters,2861,中等,"295,362","917,467",https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
+3,4. 寻找两个有序数组的中位数,Median Of Two Sorted Arrays,1872,困难,"122,230","335,872",https://leetcode-cn.com/problems/median-of-two-sorted-arrays
+4,5. 最长回文子串,Longest Palindromic Substring,1552,中等,"153,089","550,159",https://leetcode-cn.com/problems/longest-palindromic-substring
+5,6. Z 字形变换,Zigzag Conversion,487,中等,"80,056","174,392",https://leetcode-cn.com/problems/zigzag-conversion
+6,7. 整数反转,Reverse Integer,1532,简单,"238,889","717,227",https://leetcode-cn.com/problems/reverse-integer
+7,8. 字符串转换整数 (atoi),String To Integer Atoi,494,中等,"92,815","497,265",https://leetcode-cn.com/problems/string-to-integer-atoi
+8,9. 回文数,Palindrome Number,846,简单,"214,958","379,271",https://leetcode-cn.com/problems/palindrome-number
+9,10. 正则表达式匹配,Regular Expression Matching,818,困难,"42,630","167,802",https://leetcode-cn.com/problems/regular-expression-matching
+10,11. 盛最多水的容器,Container With Most Water,964,中等,"113,532","189,561",https://leetcode-cn.com/problems/container-with-most-water
+11,12. 整数转罗马数字,Integer To Roman,244,中等,"55,396","89,404",https://leetcode-cn.com/problems/integer-to-roman
+12,13. 罗马数字转整数,Roman To Integer,705,简单,"126,765","211,731",https://leetcode-cn.com/problems/roman-to-integer
+13,14. 最长公共前缀,Longest Common Prefix,802,简单,"160,690","452,504",https://leetcode-cn.com/problems/longest-common-prefix
+14,15. 三数之和,3Sum,1615,中等,"130,940","529,174",https://leetcode-cn.com/problems/3sum
+15,16. 最接近的三数之和,3Sum Closest,313,中等,"60,739","143,679",https://leetcode-cn.com/problems/3sum-closest
+16,17. 电话号码的字母组合,Letter Combinations Of A Phone Number,517,中等,"63,667","123,231",https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number
+17,18. 四数之和,4Sum,343,中等,"45,302","124,862",https://leetcode-cn.com/problems/4sum
+18,19. 删除链表的倒数第N个节点,Remove Nth Node From End Of List,621,中等,"101,408","276,208",https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list
+19,20. 有效的括号,Valid Parentheses,1260,简单,"169,589","421,610",https://leetcode-cn.com/problems/valid-parentheses
+20,21. 合并两个有序链表,Merge Two Sorted Lists,758,简单,"153,370","261,230",https://leetcode-cn.com/problems/merge-two-sorted-lists
+21,22. 括号生成,Generate Parentheses,651,中等,"59,886","82,498",https://leetcode-cn.com/problems/generate-parentheses
+22,23. 合并K个排序链表,Merge K Sorted Lists,419,困难,"61,377","127,595",https://leetcode-cn.com/problems/merge-k-sorted-lists
+23,24. 两两交换链表中的节点,Swap Nodes In Pairs,358,中等,"58,060","91,743",https://leetcode-cn.com/problems/swap-nodes-in-pairs
+24,25. K 个一组翻转链表,Reverse Nodes In K Group,323,困难,"30,673","55,542",https://leetcode-cn.com/problems/reverse-nodes-in-k-group
+25,26. 删除排序数组中的重复项,Remove Duplicates From Sorted Array,1226,简单,"214,044","449,689",https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array
+26,27. 移除元素,Remove Element,438,简单,"114,718","202,203",https://leetcode-cn.com/problems/remove-element
+27,28. 实现 strStr(),Implement Strstr,324,简单,"108,982","278,351",https://leetcode-cn.com/problems/implement-strstr
+28,30. 串联所有单词的子串,Substring With Concatenation Of All Words,182,困难,"18,770","66,239",https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words
+29,31. 下一个排列,Next Permutation,333,中等,"33,946","105,128",https://leetcode-cn.com/problems/next-permutation
+30,32. 最长有效括号,Longest Valid Parentheses,430,困难,"31,118","107,773",https://leetcode-cn.com/problems/longest-valid-parentheses
+31,33. 搜索旋转排序数组,Search In Rotated Sorted Array,449,中等,"60,085","165,756",https://leetcode-cn.com/problems/search-in-rotated-sorted-array
+32,34. 在排序数组中查找元素的第一个和最后一个位置,Find First And Last Position Of Element In Sorted Array,267,中等,"49,422","129,176",https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array
+33,35. 搜索插入位置,Search Insert Position,377,简单,"98,846","221,194",https://leetcode-cn.com/problems/search-insert-position
+34,36. 有效的数独,Valid Sudoku,236,中等,"47,078","81,957",https://leetcode-cn.com/problems/valid-sudoku
+35,37. 解数独,Sudoku Solver,270,困难,"15,222","26,043",https://leetcode-cn.com/problems/sudoku-solver
+36,38. 报数,Count And Say,351,简单,"62,789","117,021",https://leetcode-cn.com/problems/count-and-say
+37,39. 组合总和,Combination Sum,469,中等,"50,764","75,167",https://leetcode-cn.com/problems/combination-sum
+38,40. 组合总和 II,Combination Sum Ii,179,中等,"32,100","54,618",https://leetcode-cn.com/problems/combination-sum-ii
+39,41. 缺失的第一个正数,First Missing Positive,327,困难,"30,507","82,112",https://leetcode-cn.com/problems/first-missing-positive
+40,42. 接雨水,Trapping Rain Water,730,困难,"42,127","88,700",https://leetcode-cn.com/problems/trapping-rain-water
+41,43. 字符串相乘,Multiply Strings,241,中等,"36,279","88,412",https://leetcode-cn.com/problems/multiply-strings
+42,44. 通配符匹配,Wildcard Matching,238,困难,"15,374","60,182",https://leetcode-cn.com/problems/wildcard-matching
+43,45. 跳跃游戏 II,Jump Game Ii,309,困难,"24,133","74,673",https://leetcode-cn.com/problems/jump-game-ii
+44,46. 全排列,Permutations,475,中等,"63,796","87,332",https://leetcode-cn.com/problems/permutations
+45,47. 全排列 II,Permutations Ii,189,中等,"31,289","55,861",https://leetcode-cn.com/problems/permutations-ii
+46,48. 旋转图像,Rotate Image,320,中等,"46,279","70,260",https://leetcode-cn.com/problems/rotate-image
+47,49. 字母异位词分组,Group Anagrams,226,中等,"40,341","67,613",https://leetcode-cn.com/problems/group-anagrams
+48,"50. Pow(x, n)",Powx N,228,中等,"42,376","126,501",https://leetcode-cn.com/problems/powx-n
+49,51. N皇后,N Queens,284,困难,"20,772","31,033",https://leetcode-cn.com/problems/n-queens
+50,52. N皇后 II,N Queens Ii,87,困难,"12,954","16,951",https://leetcode-cn.com/problems/n-queens-ii
+51,53. 最大子序和,Maximum Subarray,1427,简单,"133,384","275,857",https://leetcode-cn.com/problems/maximum-subarray
+52,54. 螺旋矩阵,Spiral Matrix,251,中等,"33,470","88,476",https://leetcode-cn.com/problems/spiral-matrix
+53,55. 跳跃游戏,Jump Game,392,中等,"48,062","129,422",https://leetcode-cn.com/problems/jump-game
+54,56. 合并区间,Merge Intervals,237,中等,"42,291","107,237",https://leetcode-cn.com/problems/merge-intervals
+55,57. 插入区间,Insert Interval,84,困难,"12,321","34,145",https://leetcode-cn.com/problems/insert-interval
+56,58. 最后一个单词的长度,Length Of Last Word,154,简单,"56,958","179,313",https://leetcode-cn.com/problems/length-of-last-word
+57,59. 螺旋矩阵 II,Spiral Matrix Ii,130,中等,"21,248","28,044",https://leetcode-cn.com/problems/spiral-matrix-ii
+58,60. 第k个排列,Permutation Sequence,147,中等,"19,002","39,950",https://leetcode-cn.com/problems/permutation-sequence
+59,61. 旋转链表,Rotate List,184,中等,"35,976","91,055",https://leetcode-cn.com/problems/rotate-list
+60,62. 不同路径,Unique Paths,371,中等,"57,919","100,079",https://leetcode-cn.com/problems/unique-paths
+61,63. 不同路径 II,Unique Paths Ii,198,中等,"32,868","102,641",https://leetcode-cn.com/problems/unique-paths-ii
+62,64. 最小路径和,Minimum Path Sum,344,中等,"47,377","74,555",https://leetcode-cn.com/problems/minimum-path-sum
+63,65. 有效数字,Valid Number,68,困难,"7,341","42,986",https://leetcode-cn.com/problems/valid-number
+64,66. 加一,Plus One,386,简单,"101,230","240,388",https://leetcode-cn.com/problems/plus-one
+65,67. 二进制求和,Add Binary,273,简单,"52,896","102,572",https://leetcode-cn.com/problems/add-binary
+66,68. 文本左右对齐,Text Justification,41,困难,"4,974","11,883",https://leetcode-cn.com/problems/text-justification
+67,69. x 的平方根,Sqrtx,271,简单,"78,660","211,179",https://leetcode-cn.com/problems/sqrtx
+68,70. 爬楼梯,Climbing Stairs,755,简单,"112,321","237,048",https://leetcode-cn.com/problems/climbing-stairs
+69,71. 简化路径,Simplify Path,84,中等,"20,766","54,782",https://leetcode-cn.com/problems/simplify-path
+70,72. 编辑距离,Edit Distance,431,困难,"21,896","39,645",https://leetcode-cn.com/problems/edit-distance
+71,73. 矩阵置零,Set Matrix Zeroes,154,中等,"24,469","44,761",https://leetcode-cn.com/problems/set-matrix-zeroes
+72,74. 搜索二维矩阵,Search A 2D Matrix,108,中等,"24,558","67,202",https://leetcode-cn.com/problems/search-a-2d-matrix
+73,75. 颜色分类,Sort Colors,279,中等,"47,269","87,387",https://leetcode-cn.com/problems/sort-colors
+74,76. 最小覆盖子串,Minimum Window Substring,282,困难,"18,057","52,005",https://leetcode-cn.com/problems/minimum-window-substring
+75,77. 组合,Combinations,188,中等,"27,658","38,586",https://leetcode-cn.com/problems/combinations
+76,78. 子集,Subsets,405,中等,"49,714","65,694",https://leetcode-cn.com/problems/subsets
+77,79. 单词搜索,Word Search,263,中等,"29,080","73,472",https://leetcode-cn.com/problems/word-search
+78,80. 删除排序数组中的重复项 II,Remove Duplicates From Sorted Array Ii,156,中等,"26,886","50,379",https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii
+79,81. 搜索旋转排序数组 II,Search In Rotated Sorted Array Ii,77,中等,"14,313","41,368",https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii
+80,82. 删除排序链表中的重复元素 II,Remove Duplicates From Sorted List Ii,184,中等,"26,229","58,673",https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii
+81,83. 删除排序链表中的重复元素,Remove Duplicates From Sorted List,233,简单,"61,044","126,061",https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list
+82,84. 柱状图中最大的矩形,Largest Rectangle In Histogram,346,困难,"21,265","56,263",https://leetcode-cn.com/problems/largest-rectangle-in-histogram
+83,85. 最大矩形,Maximal Rectangle,259,困难,"13,807","31,873",https://leetcode-cn.com/problems/maximal-rectangle
+84,86. 分隔链表,Partition List,140,中等,"20,862","38,418",https://leetcode-cn.com/problems/partition-list
+85,87. 扰乱字符串,Scramble String,68,困难,"5,613","12,582",https://leetcode-cn.com/problems/scramble-string
+86,88. 合并两个有序数组,Merge Sorted Array,366,简单,"91,872","200,023",https://leetcode-cn.com/problems/merge-sorted-array
+87,89. 格雷编码,Gray Code,106,中等,"15,355","22,929",https://leetcode-cn.com/problems/gray-code
+88,90. 子集 II,Subsets Ii,145,中等,"17,819","30,736",https://leetcode-cn.com/problems/subsets-ii
+89,91. 解码方法,Decode Ways,237,中等,"25,137","111,915",https://leetcode-cn.com/problems/decode-ways
+90,92. 反转链表 II,Reverse Linked List Ii,263,中等,"28,011","58,082",https://leetcode-cn.com/problems/reverse-linked-list-ii
+91,93. 复原IP地址,Restore Ip Addresses,166,中等,"20,191","44,774",https://leetcode-cn.com/problems/restore-ip-addresses
+92,94. 二叉树的中序遍历,Binary Tree Inorder Traversal,342,中等,"85,133","123,001",https://leetcode-cn.com/problems/binary-tree-inorder-traversal
+93,95. 不同的二叉搜索树 II,Unique Binary Search Trees Ii,244,中等,"15,730","26,022",https://leetcode-cn.com/problems/unique-binary-search-trees-ii
+94,96. 不同的二叉搜索树,Unique Binary Search Trees,343,中等,"23,605","36,932",https://leetcode-cn.com/problems/unique-binary-search-trees
+95,97. 交错字符串,Interleaving String,111,困难,"7,720","20,450",https://leetcode-cn.com/problems/interleaving-string
+96,98. 验证二叉搜索树,Validate Binary Search Tree,352,中等,"55,249","196,797",https://leetcode-cn.com/problems/validate-binary-search-tree
+97,99. 恢复二叉搜索树,Recover Binary Search Tree,115,困难,"8,526","15,703",https://leetcode-cn.com/problems/recover-binary-search-tree
+98,100. 相同的树,Same Tree,271,简单,"51,546","92,484",https://leetcode-cn.com/problems/same-tree
+99,101. 对称二叉树,Symmetric Tree,538,简单,"77,383","157,274",https://leetcode-cn.com/problems/symmetric-tree
+100,102. 二叉树的层次遍历,Binary Tree Level Order Traversal,332,中等,"64,340","107,333",https://leetcode-cn.com/problems/binary-tree-level-order-traversal
+101,103. 二叉树的锯齿形层次遍历,Binary Tree Zigzag Level Order Traversal,122,中等,"25,619","48,575",https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal
+102,104. 二叉树的最大深度,Maximum Depth Of Binary Tree,408,简单,"103,822","145,203",https://leetcode-cn.com/problems/maximum-depth-of-binary-tree
+103,105. 从前序与中序遍历序列构造二叉树,Construct Binary Tree From Preorder And Inorder Traversal,291,中等,"34,323","54,430",https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+104,106. 从中序与后序遍历序列构造二叉树,Construct Binary Tree From Inorder And Postorder Traversal,136,中等,"19,339","29,469",https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+105,107. 二叉树的层次遍历 II,Binary Tree Level Order Traversal Ii,162,简单,"34,171","53,898",https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii
+106,108. 将有序数组转换为二叉搜索树,Convert Sorted Array To Binary Search Tree,279,简单,"40,576","59,632",https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree
+107,109. 有序链表转换二叉搜索树,Convert Sorted List To Binary Search Tree,125,中等,"14,844","21,371",https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree
+108,110. 平衡二叉树,Balanced Binary Tree,188,简单,"40,608","82,406",https://leetcode-cn.com/problems/balanced-binary-tree
+109,111. 二叉树的最小深度,Minimum Depth Of Binary Tree,184,简单,"41,590","102,208",https://leetcode-cn.com/problems/minimum-depth-of-binary-tree
+110,112. 路径总和,Path Sum,207,简单,"41,807","86,453",https://leetcode-cn.com/problems/path-sum
+111,113. 路径总和 II,Path Sum Ii,144,中等,"23,569","40,681",https://leetcode-cn.com/problems/path-sum-ii
+112,114. 二叉树展开为链表,Flatten Binary Tree To Linked List,218,中等,"20,374","30,637",https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list
+113,115. 不同的子序列,Distinct Subsequences,111,困难,"6,988","15,288",https://leetcode-cn.com/problems/distinct-subsequences
+114,116. 填充每个节点的下一个右侧节点指针,Populating Next Right Pointers In Each Node,106,中等,"18,239","35,854",https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node
+115,117. 填充每个节点的下一个右侧节点指针 II,Populating Next Right Pointers In Each Node Ii,83,中等,"11,016","25,592",https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii
+116,118. 杨辉三角,Pascals Triangle,209,简单,"49,977","76,903",https://leetcode-cn.com/problems/pascals-triangle
+117,119. 杨辉三角 II,Pascals Triangle Ii,98,简单,"32,387","54,762",https://leetcode-cn.com/problems/pascals-triangle-ii
+118,120. 三角形最小路径和,Triangle,268,中等,"32,112","50,993",https://leetcode-cn.com/problems/triangle
+119,121. 买卖股票的最佳时机,Best Time To Buy And Sell Stock,651,简单,"104,905","203,167",https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock
+120,122. 买卖股票的最佳时机 II,Best Time To Buy And Sell Stock Ii,536,简单,"100,476","177,614",https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii
+121,123. 买卖股票的最佳时机 III,Best Time To Buy And Sell Stock Iii,248,困难,"17,036","42,674",https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii
+122,124. 二叉树中的最大路径和,Binary Tree Maximum Path Sum,259,困难,"19,592","51,050",https://leetcode-cn.com/problems/binary-tree-maximum-path-sum
+123,125. 验证回文串,Valid Palindrome,132,简单,"67,144","161,006",https://leetcode-cn.com/problems/valid-palindrome
+124,126. 单词接龙 II,Word Ladder Ii,90,困难,"4,676","15,462",https://leetcode-cn.com/problems/word-ladder-ii
+125,127. 单词接龙,Word Ladder,175,中等,"16,889","43,989",https://leetcode-cn.com/problems/word-ladder
+126,128. 最长连续序列,Longest Consecutive Sequence,198,困难,"20,937","44,596",https://leetcode-cn.com/problems/longest-consecutive-sequence
+127,129. 求根到叶子节点数字之和,Sum Root To Leaf Numbers,96,中等,"14,277","23,734",https://leetcode-cn.com/problems/sum-root-to-leaf-numbers
+128,130. 被围绕的区域,Surrounded Regions,120,中等,"16,685","43,374",https://leetcode-cn.com/problems/surrounded-regions
+129,131. 分割回文串,Palindrome Partitioning,188,中等,"17,782","27,513",https://leetcode-cn.com/problems/palindrome-partitioning
+130,132. 分割回文串 II,Palindrome Partitioning Ii,82,困难,"5,836","14,275",https://leetcode-cn.com/problems/palindrome-partitioning-ii
+131,133. 克隆图,Clone Graph,85,中等,"9,599","20,206",https://leetcode-cn.com/problems/clone-graph
+132,134. 加油站,Gas Station,179,中等,"17,667","35,217",https://leetcode-cn.com/problems/gas-station
+133,135. 分发糖果,Candy,135,困难,"11,468","28,243",https://leetcode-cn.com/problems/candy
+134,136. 只出现一次的数字,Single Number,956,简单,"129,302","200,621",https://leetcode-cn.com/problems/single-number
+135,137. 只出现一次的数字 II,Single Number Ii,215,中等,"17,041","26,279",https://leetcode-cn.com/problems/single-number-ii
+136,138. 复制带随机指针的链表,Copy List With Random Pointer,162,中等,"15,712","38,416",https://leetcode-cn.com/problems/copy-list-with-random-pointer
+137,139. 单词拆分,Word Break,252,中等,"27,108","63,418",https://leetcode-cn.com/problems/word-break
+138,140. 单词拆分 II,Word Break Ii,91,困难,"8,922","24,042",https://leetcode-cn.com/problems/word-break-ii
+139,141. 环形链表,Linked List Cycle,432,简单,"89,798","199,506",https://leetcode-cn.com/problems/linked-list-cycle
+140,142. 环形链表 II,Linked List Cycle Ii,295,中等,"41,152","88,224",https://leetcode-cn.com/problems/linked-list-cycle-ii
+141,143. 重排链表,Reorder List,138,中等,"12,795","23,891",https://leetcode-cn.com/problems/reorder-list
+142,144. 二叉树的前序遍历,Binary Tree Preorder Traversal,180,中等,"55,684","88,540",https://leetcode-cn.com/problems/binary-tree-preorder-traversal
+143,145. 二叉树的后序遍历,Binary Tree Postorder Traversal,195,困难,"41,849","60,572",https://leetcode-cn.com/problems/binary-tree-postorder-traversal
+144,146. LRU缓存机制,Lru Cache,328,中等,"26,317","58,868",https://leetcode-cn.com/problems/lru-cache
+145,147. 对链表进行插入排序,Insertion Sort List,105,中等,"16,220","26,245",https://leetcode-cn.com/problems/insertion-sort-list
+146,148. 排序链表,Sort List,352,中等,"33,048","52,648",https://leetcode-cn.com/problems/sort-list
+147,149. 直线上最多的点数,Max Points On A Line,94,困难,"6,598","33,880",https://leetcode-cn.com/problems/max-points-on-a-line
+148,150. 逆波兰表达式求值,Evaluate Reverse Polish Notation,84,中等,"21,605","45,073",https://leetcode-cn.com/problems/evaluate-reverse-polish-notation
+149,151. 翻转字符串里的单词,Reverse Words In A String,94,中等,"24,889","73,651",https://leetcode-cn.com/problems/reverse-words-in-a-string
+150,152. 乘积最大子序列,Maximum Product Subarray,327,中等,"27,997","77,251",https://leetcode-cn.com/problems/maximum-product-subarray
+151,153. 寻找旋转排序数组中的最小值,Find Minimum In Rotated Sorted Array,113,中等,"24,918","49,835",https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array
+152,154. 寻找旋转排序数组中的最小值 II,Find Minimum In Rotated Sorted Array Ii,57,困难,"10,382","22,508",https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii
+153,155. 最小栈,Min Stack,338,简单,"60,253","118,960",https://leetcode-cn.com/problems/min-stack
+154,156. 上下翻转二叉树,Binary Tree Upside Down,15,中等,864,"1,180",https://leetcode-cn.com/problems/binary-tree-upside-down
+155,157. 用 Read4 读取 N 个字符,Read N Characters Given Read4,4,简单,665,"1,284",https://leetcode-cn.com/problems/read-n-characters-given-read4
+156,158. 用 Read4 读取 N 个字符 II,Read N Characters Given Read4 Ii Call Multiple Times,10,困难,339,613,https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+157,159. 至多包含两个不同字符的最长子串,Longest Substring With At Most Two Distinct Characters,12,中等,"1,281","2,454",https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters
+158,160. 相交链表,Intersection Of Two Linked Lists,479,简单,"60,718","119,547",https://leetcode-cn.com/problems/intersection-of-two-linked-lists
+159,161. 相隔为 1 的编辑距离,One Edit Distance,9,中等,"1,162","3,735",https://leetcode-cn.com/problems/one-edit-distance
+160,162. 寻找峰值,Find Peak Element,125,中等,"23,306","53,684",https://leetcode-cn.com/problems/find-peak-element
+161,163. 缺失的区间,Missing Ranges,10,中等,"1,450","6,314",https://leetcode-cn.com/problems/missing-ranges
+162,164. 最大间距,Maximum Gap,91,困难,"8,333","15,838",https://leetcode-cn.com/problems/maximum-gap
+163,165. 比较版本号,Compare Version Numbers,52,中等,"9,070","24,522",https://leetcode-cn.com/problems/compare-version-numbers
+164,166. 分数到小数,Fraction To Recurring Decimal,90,中等,"6,725","26,719",https://leetcode-cn.com/problems/fraction-to-recurring-decimal
+165,167. 两数之和 II - 输入有序数组,Two Sum Ii Input Array Is Sorted,213,简单,"55,115","107,212",https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted
+166,168. Excel表列名称,Excel Sheet Column Title,151,简单,"16,469","45,903",https://leetcode-cn.com/problems/excel-sheet-column-title
+167,169. 多数元素,Majority Element,387,简单,"92,169","151,679",https://leetcode-cn.com/problems/majority-element
+168,170. 两数之和 III - 数据结构设计,Two Sum Iii Data Structure Design,8,简单,"1,037","2,657",https://leetcode-cn.com/problems/two-sum-iii-data-structure-design
+169,171. Excel表列序号,Excel Sheet Column Number,98,简单,"26,784","40,710",https://leetcode-cn.com/problems/excel-sheet-column-number
+170,172. 阶乘后的零,Factorial Trailing Zeroes,174,简单,"23,465","59,538",https://leetcode-cn.com/problems/factorial-trailing-zeroes
+171,173. 二叉搜索树迭代器,Binary Search Tree Iterator,105,中等,"10,294","14,808",https://leetcode-cn.com/problems/binary-search-tree-iterator
+172,174. 地下城游戏,Dungeon Game,148,困难,"5,637","14,534",https://leetcode-cn.com/problems/dungeon-game
+173,175. 组合两个表,Combine Two Tables,508,简单,"87,810","123,863",https://leetcode-cn.com/problems/combine-two-tables
+174,176. 第二高的薪水,Second Highest Salary,468,简单,"64,936","194,678",https://leetcode-cn.com/problems/second-highest-salary
+175,177. 第N高的薪水,Nth Highest Salary,220,中等,"29,174","67,375",https://leetcode-cn.com/problems/nth-highest-salary
+176,178. 分数排名,Rank Scores,391,中等,"29,286","49,308",https://leetcode-cn.com/problems/rank-scores
+177,179. 最大数,Largest Number,186,中等,"17,120","49,343",https://leetcode-cn.com/problems/largest-number
+178,180. 连续出现的数字,Consecutive Numbers,182,中等,"21,200","44,557",https://leetcode-cn.com/problems/consecutive-numbers
+179,181. 超过经理收入的员工,Employees Earning More Than Their Managers,228,简单,"44,099","65,352",https://leetcode-cn.com/problems/employees-earning-more-than-their-managers
+180,182. 查找重复的电子邮箱,Duplicate Emails,164,简单,"54,112","69,923",https://leetcode-cn.com/problems/duplicate-emails
+181,183. 从不订购的客户,Customers Who Never Order,130,简单,"41,195","63,845",https://leetcode-cn.com/problems/customers-who-never-order
+182,184. 部门工资最高的员工,Department Highest Salary,193,中等,"24,834","57,881",https://leetcode-cn.com/problems/department-highest-salary
+183,185. 部门工资前三高的所有员工,Department Top Three Salaries,255,困难,"16,514","40,535",https://leetcode-cn.com/problems/department-top-three-salaries
+184,186. 翻转字符串里的单词 II,Reverse Words In A String Ii,8,中等,"1,115","1,596",https://leetcode-cn.com/problems/reverse-words-in-a-string-ii
+185,187. 重复的DNA序列,Repeated Dna Sequences,54,中等,"9,220","21,527",https://leetcode-cn.com/problems/repeated-dna-sequences
+186,188. 买卖股票的最佳时机 IV,Best Time To Buy And Sell Stock Iv,133,困难,"8,558","30,427",https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv
+187,189. 旋转数组,Rotate Array,433,简单,"84,837","213,576",https://leetcode-cn.com/problems/rotate-array
+188,190. 颠倒二进制位,Reverse Bits,109,简单,"25,629","49,132",https://leetcode-cn.com/problems/reverse-bits
+189,191. 位1的个数,Number Of 1 Bits,116,简单,"39,719","63,526",https://leetcode-cn.com/problems/number-of-1-bits
+190,192. 统计词频,Word Frequency,82,中等,"6,951","21,049",https://leetcode-cn.com/problems/word-frequency
+191,193. 有效电话号码,Valid Phone Numbers,36,简单,"7,734","28,587",https://leetcode-cn.com/problems/valid-phone-numbers
+192,194. 转置文件,Transpose File,29,中等,"3,456","10,561",https://leetcode-cn.com/problems/transpose-file
+193,195. 第十行,Tenth Line,53,简单,"12,245","28,529",https://leetcode-cn.com/problems/tenth-line
+194,196. 删除重复的电子邮箱,Delete Duplicate Emails,184,简单,"26,548","45,623",https://leetcode-cn.com/problems/delete-duplicate-emails
+195,197. 上升的温度,Rising Temperature,102,简单,"24,637","50,777",https://leetcode-cn.com/problems/rising-temperature
+196,198. 打家劫舍,House Robber,567,简单,"61,384","145,249",https://leetcode-cn.com/problems/house-robber
+197,199. 二叉树的右视图,Binary Tree Right Side View,115,中等,"13,798","22,187",https://leetcode-cn.com/problems/binary-tree-right-side-view
+198,200. 岛屿数量,Number Of Islands,308,中等,"44,205","95,569",https://leetcode-cn.com/problems/number-of-islands
+199,201. 数字范围按位与,Bitwise And Of Numbers Range,69,中等,"6,515","14,819",https://leetcode-cn.com/problems/bitwise-and-of-numbers-range
+200,202. 快乐数,Happy Number,196,简单,"37,932","67,420",https://leetcode-cn.com/problems/happy-number
+201,203. 移除链表元素,Remove Linked List Elements,320,简单,"50,299","116,606",https://leetcode-cn.com/problems/remove-linked-list-elements
+202,204. 计数质数,Count Primes,243,简单,"35,893","114,422",https://leetcode-cn.com/problems/count-primes
+203,205. 同构字符串,Isomorphic Strings,147,简单,"23,230","49,722",https://leetcode-cn.com/problems/isomorphic-strings
+204,206. 反转链表,Reverse Linked List,692,简单,"132,207","200,402",https://leetcode-cn.com/problems/reverse-linked-list
+205,207. 课程表,Course Schedule,193,中等,"17,832","36,823",https://leetcode-cn.com/problems/course-schedule
+206,208. 实现 Trie (前缀树),Implement Trie Prefix Tree,164,中等,"18,728","29,689",https://leetcode-cn.com/problems/implement-trie-prefix-tree
+207,209. 长度最小的子数组,Minimum Size Subarray Sum,159,中等,"22,004","54,519",https://leetcode-cn.com/problems/minimum-size-subarray-sum
+208,210. 课程表 II,Course Schedule Ii,83,中等,"10,279","22,660",https://leetcode-cn.com/problems/course-schedule-ii
+209,211. 添加与搜索单词 - 数据结构设计,Add And Search Word Data Structure Design,80,中等,"5,810","14,153",https://leetcode-cn.com/problems/add-and-search-word-data-structure-design
+210,212. 单词搜索 II,Word Search Ii,83,困难,"7,341","19,170",https://leetcode-cn.com/problems/word-search-ii
+211,213. 打家劫舍 II,House Robber Ii,152,中等,"15,909","44,915",https://leetcode-cn.com/problems/house-robber-ii
+212,214. 最短回文串,Shortest Palindrome,94,困难,"4,653","15,075",https://leetcode-cn.com/problems/shortest-palindrome
+213,215. 数组中的第K个最大元素,Kth Largest Element In An Array,305,中等,"63,681","106,563",https://leetcode-cn.com/problems/kth-largest-element-in-an-array
+214,216. 组合总和 III,Combination Sum Iii,75,中等,"11,249","16,236",https://leetcode-cn.com/problems/combination-sum-iii
+215,217. 存在重复元素,Contains Duplicate,196,简单,"96,141","188,714",https://leetcode-cn.com/problems/contains-duplicate
+216,218. 天际线问题,The Skyline Problem,102,困难,"3,727","9,423",https://leetcode-cn.com/problems/the-skyline-problem
+217,219. 存在重复元素 II,Contains Duplicate Ii,125,简单,"28,222","76,828",https://leetcode-cn.com/problems/contains-duplicate-ii
+218,220. 存在重复元素 III,Contains Duplicate Iii,113,中等,"10,498","41,269",https://leetcode-cn.com/problems/contains-duplicate-iii
+219,221. 最大正方形,Maximal Square,186,中等,"16,897","43,699",https://leetcode-cn.com/problems/maximal-square
+220,222. 完全二叉树的节点个数,Count Complete Tree Nodes,97,中等,"11,036","17,264",https://leetcode-cn.com/problems/count-complete-tree-nodes
+221,223. 矩形面积,Rectangle Area,43,中等,"5,021","12,062",https://leetcode-cn.com/problems/rectangle-area
+222,224. 基本计算器,Basic Calculator,119,困难,"7,837","21,651",https://leetcode-cn.com/problems/basic-calculator
+223,225. 用队列实现栈,Implement Stack Using Queues,98,简单,"24,190","39,340",https://leetcode-cn.com/problems/implement-stack-using-queues
+224,226. 翻转二叉树,Invert Binary Tree,325,简单,"42,564","58,389",https://leetcode-cn.com/problems/invert-binary-tree
+225,227. 基本计算器 II,Basic Calculator Ii,78,中等,"8,428","24,784",https://leetcode-cn.com/problems/basic-calculator-ii
+226,228. 汇总区间,Summary Ranges,30,中等,"5,542","11,158",https://leetcode-cn.com/problems/summary-ranges
+227,229. 求众数 II,Majority Element Ii,105,中等,"8,897","21,145",https://leetcode-cn.com/problems/majority-element-ii
+228,230. 二叉搜索树中第K小的元素,Kth Smallest Element In A Bst,122,中等,"29,477","43,757",https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst
+229,231. 2的幂,Power Of Two,149,简单,"39,069","82,879",https://leetcode-cn.com/problems/power-of-two
+230,232. 用栈实现队列,Implement Queue Using Stacks,113,简单,"26,344","42,579",https://leetcode-cn.com/problems/implement-queue-using-stacks
+231,233. 数字 1 的个数,Number Of Digit One,80,困难,"4,096","12,999",https://leetcode-cn.com/problems/number-of-digit-one
+232,234. 回文链表,Palindrome Linked List,345,简单,"52,053","132,013",https://leetcode-cn.com/problems/palindrome-linked-list
+233,235. 二叉搜索树的最近公共祖先,Lowest Common Ancestor Of A Binary Search Tree,200,简单,"31,547","51,560",https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+234,236. 二叉树的最近公共祖先,Lowest Common Ancestor Of A Binary Tree,311,中等,"35,267","60,194",https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree
+235,237. 删除链表中的节点,Delete Node In A Linked List,557,简单,"67,390","85,398",https://leetcode-cn.com/problems/delete-node-in-a-linked-list
+236,238. 除自身以外数组的乘积,Product Of Array Except Self,261,中等,"22,744","35,141",https://leetcode-cn.com/problems/product-of-array-except-self
+237,239. 滑动窗口最大值,Sliding Window Maximum,185,困难,"22,433","51,968",https://leetcode-cn.com/problems/sliding-window-maximum
+238,240. 搜索二维矩阵 II,Search A 2D Matrix Ii,187,中等,"34,143","89,671",https://leetcode-cn.com/problems/search-a-2d-matrix-ii
+239,241. 为运算表达式设计优先级,Different Ways To Add Parentheses,96,中等,"5,354","7,709",https://leetcode-cn.com/problems/different-ways-to-add-parentheses
+240,242. 有效的字母异位词,Valid Anagram,135,简单,"62,442","108,870",https://leetcode-cn.com/problems/valid-anagram
+241,243. 最短单词距离,Shortest Word Distance,6,简单,"1,484","2,347",https://leetcode-cn.com/problems/shortest-word-distance
+242,244. 最短单词距离 II,Shortest Word Distance Ii,4,中等,733,"1,539",https://leetcode-cn.com/problems/shortest-word-distance-ii
+243,245. 最短单词距离 III,Shortest Word Distance Iii,4,中等,769,"1,223",https://leetcode-cn.com/problems/shortest-word-distance-iii
+244,246. 中心对称数,Strobogrammatic Number,4,简单,931,"2,070",https://leetcode-cn.com/problems/strobogrammatic-number
+245,247. 中心对称数 II,Strobogrammatic Number Ii,7,中等,738,"1,591",https://leetcode-cn.com/problems/strobogrammatic-number-ii
+246,248. 中心对称数 III,Strobogrammatic Number Iii,5,困难,326,759,https://leetcode-cn.com/problems/strobogrammatic-number-iii
+247,249. 移位字符串分组,Group Shifted Strings,6,中等,788,"1,354",https://leetcode-cn.com/problems/group-shifted-strings
+248,250. 统计同值子树,Count Univalue Subtrees,7,中等,576,960,https://leetcode-cn.com/problems/count-univalue-subtrees
+249,251. 展开二维向量,Flatten 2D Vector,9,中等,501,977,https://leetcode-cn.com/problems/flatten-2d-vector
+250,252. 会议室,Meeting Rooms,7,简单,"1,412","2,753",https://leetcode-cn.com/problems/meeting-rooms
+251,253. 会议室 II,Meeting Rooms Ii,27,中等,"3,031","7,806",https://leetcode-cn.com/problems/meeting-rooms-ii
+252,254. 因子的组合,Factor Combinations,7,中等,650,"1,172",https://leetcode-cn.com/problems/factor-combinations
+253,255. 验证前序遍历序列二叉搜索树,Verify Preorder Sequence In Binary Search Tree,13,中等,792,"1,764",https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree
+254,256. 粉刷房子,Paint House,15,简单,"1,457","2,603",https://leetcode-cn.com/problems/paint-house
+255,257. 二叉树的所有路径,Binary Tree Paths,177,简单,"20,308","33,217",https://leetcode-cn.com/problems/binary-tree-paths
+256,258. 各位相加,Add Digits,195,简单,"26,760","41,121",https://leetcode-cn.com/problems/add-digits
+257,259. 较小的三数之和,3Sum Smaller,10,中等,"1,016","1,830",https://leetcode-cn.com/problems/3sum-smaller
+258,260. 只出现一次的数字 III,Single Number Iii,146,中等,"11,704","17,092",https://leetcode-cn.com/problems/single-number-iii
+259,261. 以图判树,Graph Valid Tree,12,中等,"1,125","2,701",https://leetcode-cn.com/problems/graph-valid-tree
+260,262. 行程和用户,Trips And Users,103,困难,"9,189","20,526",https://leetcode-cn.com/problems/trips-and-users
+261,263. 丑数,Ugly Number,83,简单,"20,456","42,353",https://leetcode-cn.com/problems/ugly-number
+262,265. 粉刷房子 II,Paint House Ii,12,困难,763,"1,510",https://leetcode-cn.com/problems/paint-house-ii
+263,266. 回文排列,Palindrome Permutation,4,简单,966,"1,583",https://leetcode-cn.com/problems/palindrome-permutation
+264,267. 回文排列 II,Palindrome Permutation Ii,11,中等,433,"1,116",https://leetcode-cn.com/problems/palindrome-permutation-ii
+265,268. 缺失数字,Missing Number,190,简单,"41,606","77,920",https://leetcode-cn.com/problems/missing-number
+266,269. 火星词典,Alien Dictionary,22,困难,793,"2,043",https://leetcode-cn.com/problems/alien-dictionary
+267,270. 最接近的二叉搜索树值,Closest Binary Search Tree Value,8,简单,"1,293","2,649",https://leetcode-cn.com/problems/closest-binary-search-tree-value
+268,271. 字符串的编码与解码,Encode And Decode Strings,7,中等,343,714,https://leetcode-cn.com/problems/encode-and-decode-strings
+269,272. 最接近的二叉搜索树值 II,Closest Binary Search Tree Value Ii,9,困难,470,831,https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii
+270,273. 整数转换英文表示,Integer To English Words,39,困难,"2,720","10,825",https://leetcode-cn.com/problems/integer-to-english-words
+271,274. H指数,H Index,43,中等,"6,383","17,260",https://leetcode-cn.com/problems/h-index
+272,275. H指数 II,H Index Ii,24,中等,"4,662","11,878",https://leetcode-cn.com/problems/h-index-ii
+273,276. 栅栏涂色,Paint Fence,17,简单,"1,010","2,408",https://leetcode-cn.com/problems/paint-fence
+274,277. 搜寻名人,Find The Celebrity,14,中等,891,"1,611",https://leetcode-cn.com/problems/find-the-celebrity
+275,278. 第一个错误的版本,First Bad Version,115,简单,"30,516","86,534",https://leetcode-cn.com/problems/first-bad-version
+276,279. 完全平方数,Perfect Squares,258,中等,"29,112","56,239",https://leetcode-cn.com/problems/perfect-squares
+277,280. 摆动排序,Wiggle Sort,10,中等,"1,025","1,500",https://leetcode-cn.com/problems/wiggle-sort
+278,281. 锯齿迭代器,Zigzag Iterator,5,中等,341,471,https://leetcode-cn.com/problems/zigzag-iterator
+279,282. 给表达式添加运算符,Expression Add Operators,52,困难,"1,341","4,430",https://leetcode-cn.com/problems/expression-add-operators
+280,283. 移动零,Move Zeroes,452,简单,"91,138","156,335",https://leetcode-cn.com/problems/move-zeroes
+281,284. 顶端迭代器,Peeking Iterator,23,中等,"2,254","3,185",https://leetcode-cn.com/problems/peeking-iterator
+282,285. 二叉搜索树中的顺序后继,Inorder Successor In Bst,12,中等,"1,027","1,695",https://leetcode-cn.com/problems/inorder-successor-in-bst
+283,286. 墙与门,Walls And Gates,16,中等,"1,873","4,563",https://leetcode-cn.com/problems/walls-and-gates
+284,287. 寻找重复数,Find The Duplicate Number,353,中等,"28,729","46,307",https://leetcode-cn.com/problems/find-the-duplicate-number
+285,288. 单词的唯一缩写,Unique Word Abbreviation,2,中等,426,"1,498",https://leetcode-cn.com/problems/unique-word-abbreviation
+286,289. 生命游戏,Game Of Life,89,中等,"8,508","12,663",https://leetcode-cn.com/problems/game-of-life
+287,290. 单词规律,Word Pattern,116,简单,"14,777","35,744",https://leetcode-cn.com/problems/word-pattern
+288,291. 单词规律 II,Word Pattern Ii,3,困难,243,459,https://leetcode-cn.com/problems/word-pattern-ii
+289,292. Nim 游戏,Nim Game,240,简单,"33,399","47,989",https://leetcode-cn.com/problems/nim-game
+290,293. 翻转游戏,Flip Game,7,简单,996,"1,458",https://leetcode-cn.com/problems/flip-game
+291,294. 翻转游戏 II,Flip Game Ii,6,中等,593,"1,099",https://leetcode-cn.com/problems/flip-game-ii
+292,295. 数据流的中位数,Find Median From Data Stream,98,困难,"8,174","20,087",https://leetcode-cn.com/problems/find-median-from-data-stream
+293,296. 最佳的碰头地点,Best Meeting Point,8,困难,326,542,https://leetcode-cn.com/problems/best-meeting-point
+294,297. 二叉树的序列化与反序列化,Serialize And Deserialize Binary Tree,102,困难,"11,075","25,886",https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree
+295,298. 二叉树最长连续序列,Binary Tree Longest Consecutive Sequence,5,中等,598,"1,133",https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence
+296,299. 猜数字游戏,Bulls And Cows,42,简单,"6,379","13,972",https://leetcode-cn.com/problems/bulls-and-cows
+297,300. 最长上升子序列,Longest Increasing Subsequence,367,中等,"39,659","91,199",https://leetcode-cn.com/problems/longest-increasing-subsequence
+298,301. 删除无效的括号,Remove Invalid Parentheses,84,困难,"4,168","9,402",https://leetcode-cn.com/problems/remove-invalid-parentheses
+299,302. 包含全部黑色像素的最小矩形,Smallest Rectangle Enclosing Black Pixels,6,困难,297,430,https://leetcode-cn.com/problems/smallest-rectangle-enclosing-black-pixels
+300,303. 区域和检索 - 数组不可变,Range Sum Query Immutable,120,简单,"24,012","41,032",https://leetcode-cn.com/problems/range-sum-query-immutable
+301,304. 二维区域和检索 - 矩阵不可变,Range Sum Query 2D Immutable,53,中等,"4,457","10,770",https://leetcode-cn.com/problems/range-sum-query-2d-immutable
+302,305. 岛屿数量 II,Number Of Islands Ii,10,困难,446,"1,521",https://leetcode-cn.com/problems/number-of-islands-ii
+303,306. 累加数,Additive Number,44,中等,"3,137","9,967",https://leetcode-cn.com/problems/additive-number
+304,307. 区域和检索 - 数组可修改,Range Sum Query Mutable,85,中等,"5,699","10,880",https://leetcode-cn.com/problems/range-sum-query-mutable
+305,308. 二维区域和检索 - 可变,Range Sum Query 2D Mutable,7,困难,252,456,https://leetcode-cn.com/problems/range-sum-query-2d-mutable
+306,309. 最佳买卖股票时机含冷冻期,Best Time To Buy And Sell Stock With Cooldown,179,中等,"10,871","21,606",https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+307,310. 最小高度树,Minimum Height Trees,79,中等,"3,598","10,910",https://leetcode-cn.com/problems/minimum-height-trees
+308,311. 稀疏矩阵的乘法,Sparse Matrix Multiplication,8,中等,441,608,https://leetcode-cn.com/problems/sparse-matrix-multiplication
+309,312. 戳气球,Burst Balloons,160,困难,"5,780","10,227",https://leetcode-cn.com/problems/burst-balloons
+310,313. 超级丑数,Super Ugly Number,47,中等,"4,104","6,962",https://leetcode-cn.com/problems/super-ugly-number
+311,314. 二叉树的垂直遍历,Binary Tree Vertical Order Traversal,10,中等,451,838,https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal
+312,315. 计算右侧小于当前元素的个数,Count Of Smaller Numbers After Self,118,困难,"7,835","21,505",https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self
+313,316. 去除重复字母,Remove Duplicate Letters,82,困难,"5,069","14,137",https://leetcode-cn.com/problems/remove-duplicate-letters
+314,317. 离建筑物最近的距离,Shortest Distance From All Buildings,7,困难,374,943,https://leetcode-cn.com/problems/shortest-distance-from-all-buildings
+315,318. 最大单词长度乘积,Maximum Product Of Word Lengths,56,中等,"4,158","6,950",https://leetcode-cn.com/problems/maximum-product-of-word-lengths
+316,319. 灯泡开关,Bulb Switcher,73,中等,"6,597","15,136",https://leetcode-cn.com/problems/bulb-switcher
+317,320. 列举单词的全部缩写,Generalized Abbreviation,8,中等,477,770,https://leetcode-cn.com/problems/generalized-abbreviation
+318,321. 拼接最大数,Create Maximum Number,53,困难,"1,472","5,641",https://leetcode-cn.com/problems/create-maximum-number
+319,322. 零钱兑换,Coin Change,294,中等,"32,590","89,151",https://leetcode-cn.com/problems/coin-change
+320,323. 无向图中连通分量的数目,Number Of Connected Components In An Undirected Graph,6,中等,"1,109","2,131",https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph
+321,324. 摆动排序 II,Wiggle Sort Ii,78,中等,"6,490","18,756",https://leetcode-cn.com/problems/wiggle-sort-ii
+322,325. 和等于 k 的最长子数组长度,Maximum Size Subarray Sum Equals K,13,中等,"1,100","2,485",https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k
+323,326. 3的幂,Power Of Three,80,简单,"31,190","68,347",https://leetcode-cn.com/problems/power-of-three
+324,327. 区间和的个数,Count Of Range Sum,45,困难,"1,691","5,337",https://leetcode-cn.com/problems/count-of-range-sum
+325,328. 奇偶链表,Odd Even Linked List,112,中等,"21,779","36,193",https://leetcode-cn.com/problems/odd-even-linked-list
+326,329. 矩阵中的最长递增路径,Longest Increasing Path In A Matrix,93,困难,"7,141","18,409",https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix
+327,330. 按要求补齐数组,Patching Array,51,困难,"1,359","3,376",https://leetcode-cn.com/problems/patching-array
+328,331. 验证二叉树的前序序列化,Verify Preorder Serialization Of A Binary Tree,48,中等,"3,278","7,667",https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree
+329,332. 重新安排行程,Reconstruct Itinerary,60,中等,"3,193","9,425",https://leetcode-cn.com/problems/reconstruct-itinerary
+330,333. 最大 BST 子树,Largest Bst Subtree,12,中等,844,"2,078",https://leetcode-cn.com/problems/largest-bst-subtree
+331,334. 递增的三元子序列,Increasing Triplet Subsequence,89,中等,"11,524","32,007",https://leetcode-cn.com/problems/increasing-triplet-subsequence
+332,335. 路径交叉,Self Crossing,13,困难,741,"2,426",https://leetcode-cn.com/problems/self-crossing
+333,336. 回文对,Palindrome Pairs,36,困难,"2,083","6,473",https://leetcode-cn.com/problems/palindrome-pairs
+334,337. 打家劫舍 III,House Robber Iii,206,中等,"11,215","20,407",https://leetcode-cn.com/problems/house-robber-iii
+335,339. 嵌套列表权重和,Nested List Weight Sum,8,简单,662,848,https://leetcode-cn.com/problems/nested-list-weight-sum
+336,340. 至多包含 K 个不同字符的最长子串,Longest Substring With At Most K Distinct Characters,11,困难,764,"1,669",https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters
+337,341. 扁平化嵌套列表迭代器,Flatten Nested List Iterator,57,中等,"4,560","7,502",https://leetcode-cn.com/problems/flatten-nested-list-iterator
+338,342. 4的幂,Power Of Four,73,简单,"15,943","33,888",https://leetcode-cn.com/problems/power-of-four
+339,343. 整数拆分,Integer Break,130,中等,"13,610","25,551",https://leetcode-cn.com/problems/integer-break
+340,344. 反转字符串,Reverse String,191,简单,"95,294","139,833",https://leetcode-cn.com/problems/reverse-string
+341,345. 反转字符串中的元音字母,Reverse Vowels Of A String,65,简单,"20,082","41,496",https://leetcode-cn.com/problems/reverse-vowels-of-a-string
+342,346. 数据流中的移动平均值,Moving Average From Data Stream,3,简单,"1,642","2,349",https://leetcode-cn.com/problems/moving-average-from-data-stream
+343,347. 前 K 个高频元素,Top K Frequent Elements,210,中等,"29,566","50,002",https://leetcode-cn.com/problems/top-k-frequent-elements
+344,348. 判定井字棋胜负,Design Tic Tac Toe,5,中等,473,813,https://leetcode-cn.com/problems/design-tic-tac-toe
+345,349. 两个数组的交集,Intersection Of Two Arrays,147,简单,"43,486","64,562",https://leetcode-cn.com/problems/intersection-of-two-arrays
+346,350. 两个数组的交集 II,Intersection Of Two Arrays Ii,216,简单,"58,252","128,020",https://leetcode-cn.com/problems/intersection-of-two-arrays-ii
+347,351. 安卓系统手势解锁,Android Unlock Patterns,17,中等,513,797,https://leetcode-cn.com/problems/android-unlock-patterns
+348,352. 将数据流变为多个不相交区间,Data Stream As Disjoint Intervals,15,困难,"1,028","2,038",https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals
+349,353. 贪吃蛇,Design Snake Game,5,中等,257,688,https://leetcode-cn.com/problems/design-snake-game
+350,354. 俄罗斯套娃信封问题,Russian Doll Envelopes,79,困难,"5,195","15,719",https://leetcode-cn.com/problems/russian-doll-envelopes
+351,355. 设计推特,Design Twitter,41,中等,"2,003","5,509",https://leetcode-cn.com/problems/design-twitter
+352,356. 直线镜像,Line Reflection,5,中等,287,"1,059",https://leetcode-cn.com/problems/line-reflection
+353,357. 计算各个位数不同的数字个数,Count Numbers With Unique Digits,42,中等,"5,351","10,965",https://leetcode-cn.com/problems/count-numbers-with-unique-digits
+354,358. K 距离间隔重排字符串,Rearrange String K Distance Apart,3,困难,285,831,https://leetcode-cn.com/problems/rearrange-string-k-distance-apart
+355,359. 日志速率限制器,Logger Rate Limiter,4,简单,670,"1,013",https://leetcode-cn.com/problems/logger-rate-limiter
+356,360. 有序转化数组,Sort Transformed Array,3,中等,362,597,https://leetcode-cn.com/problems/sort-transformed-array
+357,361. 轰炸敌人,Bomb Enemy,9,中等,687,"1,337",https://leetcode-cn.com/problems/bomb-enemy
+358,362. 敲击计数器,Design Hit Counter,7,中等,329,483,https://leetcode-cn.com/problems/design-hit-counter
+359,363. 矩形区域不超过 K 的最大数值和,Max Sum Of Rectangle No Larger Than K,51,困难,"1,472","4,605",https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k
+360,364. 加权嵌套序列和 II,Nested List Weight Sum Ii,6,中等,349,528,https://leetcode-cn.com/problems/nested-list-weight-sum-ii
+361,365. 水壶问题,Water And Jug Problem,33,中等,"3,417","11,833",https://leetcode-cn.com/problems/water-and-jug-problem
+362,366. 寻找完全二叉树的叶子节点,Find Leaves Of Binary Tree,9,中等,478,687,https://leetcode-cn.com/problems/find-leaves-of-binary-tree
+363,367. 有效的完全平方数,Valid Perfect Square,77,简单,"19,374","45,354",https://leetcode-cn.com/problems/valid-perfect-square
+364,368. 最大整除子集,Largest Divisible Subset,55,中等,"3,803","10,549",https://leetcode-cn.com/problems/largest-divisible-subset
+365,369. 给单链表加一,Plus One Linked List,11,中等,651,"1,119",https://leetcode-cn.com/problems/plus-one-linked-list
+366,370. 区间加法,Range Addition,6,中等,443,708,https://leetcode-cn.com/problems/range-addition
+367,371. 两整数之和,Sum Of Two Integers,168,简单,"19,235","36,335",https://leetcode-cn.com/problems/sum-of-two-integers
+368,372. 超级次方,Super Pow,44,中等,"2,313","6,238",https://leetcode-cn.com/problems/super-pow
+369,373. 查找和最小的K对数字,Find K Pairs With Smallest Sums,45,中等,"3,929","10,029",https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums
+370,374. 猜数字大小,Guess Number Higher Or Lower,45,简单,"14,035","33,605",https://leetcode-cn.com/problems/guess-number-higher-or-lower
+371,375. 猜数字大小 II,Guess Number Higher Or Lower Ii,69,中等,"3,233","8,953",https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii
+372,376. 摆动序列,Wiggle Subsequence,108,中等,"8,508","21,162",https://leetcode-cn.com/problems/wiggle-subsequence
+373,377. 组合总和 Ⅳ,Combination Sum Iv,93,中等,"5,751","14,169",https://leetcode-cn.com/problems/combination-sum-iv
+374,378. 有序矩阵中第K小的元素,Kth Smallest Element In A Sorted Matrix,121,中等,"11,172","19,594",https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix
+375,379. 电话目录管理系统,Design Phone Directory,5,中等,437,664,https://leetcode-cn.com/problems/design-phone-directory
+376,380. 常数时间插入、删除和获取随机元素,Insert Delete Getrandom O1,64,中等,"7,029","14,911",https://leetcode-cn.com/problems/insert-delete-getrandom-o1
+377,381. O(1) 时间插入、删除和获取随机元素 - 允许重复,Insert Delete Getrandom O1 Duplicates Allowed,33,困难,"1,456","3,975",https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+378,382. 链表随机节点,Linked List Random Node,37,中等,"2,687","4,933",https://leetcode-cn.com/problems/linked-list-random-node
+379,383. 赎金信,Ransom Note,61,简单,"13,702","26,818",https://leetcode-cn.com/problems/ransom-note
+380,384. 打乱数组,Shuffle An Array,38,中等,"12,631","26,019",https://leetcode-cn.com/problems/shuffle-an-array
+381,385. 迷你语法分析器,Mini Parser,12,中等,"1,487","3,761",https://leetcode-cn.com/problems/mini-parser
+382,386. 字典序排数,Lexicographical Numbers,57,中等,"4,821","7,255",https://leetcode-cn.com/problems/lexicographical-numbers
+383,387. 字符串中的第一个唯一字符,First Unique Character In A String,162,简单,"52,877","125,781",https://leetcode-cn.com/problems/first-unique-character-in-a-string
+384,388. 文件的最长绝对路径,Longest Absolute File Path,12,中等,995,"2,330",https://leetcode-cn.com/problems/longest-absolute-file-path
+385,389. 找不同,Find The Difference,100,简单,"18,204","30,282",https://leetcode-cn.com/problems/find-the-difference
+386,390. 消除游戏,Elimination Game,46,中等,"1,807","4,446",https://leetcode-cn.com/problems/elimination-game
+387,391. 完美矩形,Perfect Rectangle,33,困难,765,"3,387",https://leetcode-cn.com/problems/perfect-rectangle
+388,392. 判断子序列,Is Subsequence,89,简单,"18,691","39,351",https://leetcode-cn.com/problems/is-subsequence
+389,393. UTF-8 编码验证,Utf 8 Validation,25,中等,"2,978","8,050",https://leetcode-cn.com/problems/utf-8-validation
+390,394. 字符串解码,Decode String,168,中等,"12,590","26,684",https://leetcode-cn.com/problems/decode-string
+391,395. 至少有K个重复字符的最长子串,Longest Substring With At Least K Repeating Characters,87,中等,"5,454","13,188",https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters
+392,396. 旋转函数,Rotate Function,31,中等,"1,863","4,854",https://leetcode-cn.com/problems/rotate-function
+393,397. 整数替换,Integer Replacement,36,中等,"3,982","12,087",https://leetcode-cn.com/problems/integer-replacement
+394,398. 随机数索引,Random Pick Index,30,中等,"2,647","4,601",https://leetcode-cn.com/problems/random-pick-index
+395,399. 除法求值,Evaluate Division,80,中等,"3,632","6,889",https://leetcode-cn.com/problems/evaluate-division
+396,400. 第N个数字,Nth Digit,84,中等,"5,928","17,240",https://leetcode-cn.com/problems/nth-digit
+397,402. 移掉K位数字,Remove K Digits,134,中等,"8,478","31,461",https://leetcode-cn.com/problems/remove-k-digits
+398,403. 青蛙过河,Frog Jump,45,困难,"2,928","9,545",https://leetcode-cn.com/problems/frog-jump
+399,404. 左叶子之和,Sum Of Left Leaves,106,简单,"13,692","25,902",https://leetcode-cn.com/problems/sum-of-left-leaves
+400,405. 数字转换为十六进制数,Convert A Number To Hexadecimal,47,简单,"6,957","14,258",https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal
+401,406. 根据身高重建队列,Queue Reconstruction By Height,194,中等,"12,813","21,084",https://leetcode-cn.com/problems/queue-reconstruction-by-height
+402,407. 接雨水 II,Trapping Rain Water Ii,112,困难,"1,419","4,357",https://leetcode-cn.com/problems/trapping-rain-water-ii
+403,408. 有效单词缩写,Valid Word Abbreviation,3,简单,574,"1,992",https://leetcode-cn.com/problems/valid-word-abbreviation
+404,409. 最长回文串,Longest Palindrome,82,简单,"12,767","25,054",https://leetcode-cn.com/problems/longest-palindrome
+405,410. 分割数组的最大值,Split Array Largest Sum,87,困难,"3,482","8,692",https://leetcode-cn.com/problems/split-array-largest-sum
+406,411. 最短特异单词缩写,Minimum Unique Word Abbreviation,3,困难,160,346,https://leetcode-cn.com/problems/minimum-unique-word-abbreviation
+407,412. Fizz Buzz,Fizz Buzz,42,简单,"24,163","39,023",https://leetcode-cn.com/problems/fizz-buzz
+408,413. 等差数列划分,Arithmetic Slices,74,中等,"7,703","13,202",https://leetcode-cn.com/problems/arithmetic-slices
+409,414. 第三大的数,Third Maximum Number,84,简单,"15,700","46,778",https://leetcode-cn.com/problems/third-maximum-number
+410,415. 字符串相加,Add Strings,117,简单,"19,166","39,449",https://leetcode-cn.com/problems/add-strings
+411,416. 分割等和子集,Partition Equal Subset Sum,166,中等,"13,558","31,029",https://leetcode-cn.com/problems/partition-equal-subset-sum
+412,417. 太平洋大西洋水流问题,Pacific Atlantic Water Flow,58,中等,"3,737","9,493",https://leetcode-cn.com/problems/pacific-atlantic-water-flow
+413,418. 屏幕可显示句子的数量,Sentence Screen Fitting,8,中等,426,"1,400",https://leetcode-cn.com/problems/sentence-screen-fitting
+414,419. 甲板上的战舰,Battleships In A Board,29,中等,"2,320","3,321",https://leetcode-cn.com/problems/battleships-in-a-board
+415,420. 强密码检验器,Strong Password Checker,20,困难,674,"5,239",https://leetcode-cn.com/problems/strong-password-checker
+416,421. 数组中两个数的最大异或值,Maximum Xor Of Two Numbers In An Array,74,中等,"2,399","4,177",https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array
+417,422. 有效的单词方块,Valid Word Square,3,简单,381,967,https://leetcode-cn.com/problems/valid-word-square
+418,423. 从英文中重建数字,Reconstruct Original Digits From English,31,中等,"2,173","4,241",https://leetcode-cn.com/problems/reconstruct-original-digits-from-english
+419,424. 替换后的最长重复字符,Longest Repeating Character Replacement,51,中等,"3,215","7,256",https://leetcode-cn.com/problems/longest-repeating-character-replacement
+420,425. 单词方块,Word Squares,6,困难,177,365,https://leetcode-cn.com/problems/word-squares
+421,426. 将二叉搜索树转化为排序的双向链表,Convert Binary Search Tree To Sorted Doubly Linked List,12,中等,835,"1,452",https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+422,427. 建立四叉树,Construct Quad Tree,27,中等,"1,830","3,211",https://leetcode-cn.com/problems/construct-quad-tree
+423,428. 序列化和反序列化 N 叉树,Serialize And Deserialize N Ary Tree,6,困难,206,316,https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree
+424,429. N叉树的层序遍历,N Ary Tree Level Order Traversal,65,中等,"12,252","19,247",https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal
+425,430. 扁平化多级双向链表,Flatten A Multilevel Doubly Linked List,52,中等,"4,963","11,306",https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list
+426,432. 全 O(1) 的数据结构,All Oone Data Structure,26,困难,"1,916","5,470",https://leetcode-cn.com/problems/all-oone-data-structure
+427,433. 最小基因变化,Minimum Genetic Mutation,18,中等,"1,633","3,434",https://leetcode-cn.com/problems/minimum-genetic-mutation
+428,434. 字符串中的单词数,Number Of Segments In A String,42,简单,"10,377","31,405",https://leetcode-cn.com/problems/number-of-segments-in-a-string
+429,435. 无重叠区间,Non Overlapping Intervals,75,中等,"6,388","14,694",https://leetcode-cn.com/problems/non-overlapping-intervals
+430,436. 寻找右区间,Find Right Interval,22,中等,"1,687","4,031",https://leetcode-cn.com/problems/find-right-interval
+431,437. 路径总和 III,Path Sum Iii,248,简单,"15,964","30,213",https://leetcode-cn.com/problems/path-sum-iii
+432,438. 找到字符串中所有字母异位词,Find All Anagrams In A String,187,中等,"13,522","34,180",https://leetcode-cn.com/problems/find-all-anagrams-in-a-string
+433,439. 三元表达式解析器,Ternary Expression Parser,8,中等,426,782,https://leetcode-cn.com/problems/ternary-expression-parser
+434,440. 字典序的第K小数字,K Th Smallest In Lexicographical Order,50,困难,"1,651","5,476",https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order
+435,441. 排列硬币,Arranging Coins,43,简单,"13,585","34,294",https://leetcode-cn.com/problems/arranging-coins
+436,442. 数组中重复的数据,Find All Duplicates In An Array,140,中等,"9,653","15,441",https://leetcode-cn.com/problems/find-all-duplicates-in-an-array
+437,443. 压缩字符串,String Compression,75,简单,"9,302","24,553",https://leetcode-cn.com/problems/string-compression
+438,444. 序列重建,Sequence Reconstruction,4,中等,314,"1,556",https://leetcode-cn.com/problems/sequence-reconstruction
+439,445. 两数相加 II,Add Two Numbers Ii,103,中等,"10,094","19,240",https://leetcode-cn.com/problems/add-two-numbers-ii
+440,446. 等差数列划分 II - 子序列,Arithmetic Slices Ii Subsequence,28,困难,903,"2,947",https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence
+441,447. 回旋镖的数量,Number Of Boomerangs,65,简单,"7,742","13,866",https://leetcode-cn.com/problems/number-of-boomerangs
+442,448. 找到所有数组中消失的数字,Find All Numbers Disappeared In An Array,244,简单,"20,491","37,566",https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array
+443,449. 序列化和反序列化二叉搜索树,Serialize And Deserialize Bst,41,中等,"2,629","5,316",https://leetcode-cn.com/problems/serialize-and-deserialize-bst
+444,450. 删除二叉搜索树中的节点,Delete Node In A Bst,110,中等,"6,717","18,228",https://leetcode-cn.com/problems/delete-node-in-a-bst
+445,451. 根据字符出现频率排序,Sort Characters By Frequency,75,中等,"10,560","17,417",https://leetcode-cn.com/problems/sort-characters-by-frequency
+446,452. 用最少数量的箭引爆气球,Minimum Number Of Arrows To Burst Balloons,70,中等,"6,342","13,443",https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons
+447,453. 最小移动次数使数组元素相等,Minimum Moves To Equal Array Elements,85,简单,"7,019","13,370",https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements
+448,454. 四数相加 II,4Sum Ii,94,中等,"12,506","23,311",https://leetcode-cn.com/problems/4sum-ii
+449,455. 分发饼干,Assign Cookies,121,简单,"20,663","39,441",https://leetcode-cn.com/problems/assign-cookies
+450,456. 132模式,132 Pattern,98,中等,"5,001","20,183",https://leetcode-cn.com/problems/132-pattern
+451,457. 环形数组循环,Circular Array Loop,17,中等,"1,771","5,663",https://leetcode-cn.com/problems/circular-array-loop
+452,458. 可怜的小猪,Poor Pigs,77,困难,"2,592","4,867",https://leetcode-cn.com/problems/poor-pigs
+453,459. 重复的子字符串,Repeated Substring Pattern,129,简单,"11,377","25,846",https://leetcode-cn.com/problems/repeated-substring-pattern
+454,460. LFU缓存,Lfu Cache,62,困难,"2,087","6,156",https://leetcode-cn.com/problems/lfu-cache
+455,461. 汉明距离,Hamming Distance,219,简单,"35,697","48,383",https://leetcode-cn.com/problems/hamming-distance
+456,462. 最少移动次数使数组元素相等 II,Minimum Moves To Equal Array Elements Ii,49,中等,"3,218","5,831",https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii
+457,463. 岛屿的周长,Island Perimeter,135,简单,"10,797","16,857",https://leetcode-cn.com/problems/island-perimeter
+458,465. 最优账单平衡,Optimal Account Balancing,8,困难,162,362,https://leetcode-cn.com/problems/optimal-account-balancing
+459,466. 统计重复个数,Count The Repetitions,22,困难,698,"2,404",https://leetcode-cn.com/problems/count-the-repetitions
+460,467. 环绕字符串中唯一的子字符串,Unique Substrings In Wraparound String,38,中等,"1,491","3,907",https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string
+461,468. 验证IP地址,Validate Ip Address,26,中等,"3,043","14,693",https://leetcode-cn.com/problems/validate-ip-address
+462,469. 凸多边形,Convex Polygon,3,中等,261,594,https://leetcode-cn.com/problems/convex-polygon
+463,470. 用 Rand7() 实现 Rand10(),Implement Rand10 Using Rand7,36,中等,"3,214","7,205",https://leetcode-cn.com/problems/implement-rand10-using-rand7
+464,471. 编码最短长度的字符串,Encode String With Shortest Length,6,困难,196,412,https://leetcode-cn.com/problems/encode-string-with-shortest-length
+465,472. 连接词,Concatenated Words,24,困难,"1,420","3,210",https://leetcode-cn.com/problems/concatenated-words
+466,473. 火柴拼正方形,Matchsticks To Square,59,中等,"3,742","10,434",https://leetcode-cn.com/problems/matchsticks-to-square
+467,474. 一和零,Ones And Zeroes,98,中等,"4,463","9,299",https://leetcode-cn.com/problems/ones-and-zeroes
+468,475. 供暖器,Heaters,73,简单,"5,736","20,104",https://leetcode-cn.com/problems/heaters
+469,476. 数字的补数,Number Complement,129,简单,"15,387","22,716",https://leetcode-cn.com/problems/number-complement
+470,477. 汉明距离总和,Total Hamming Distance,58,中等,"3,469","7,366",https://leetcode-cn.com/problems/total-hamming-distance
+471,478. 在圆内随机生成点,Generate Random Point In A Circle,10,中等,"1,274","3,346",https://leetcode-cn.com/problems/generate-random-point-in-a-circle
+472,479. 最大回文数乘积,Largest Palindrome Product,17,困难,"1,190","3,865",https://leetcode-cn.com/problems/largest-palindrome-product
+473,480. 滑动窗口中位数,Sliding Window Median,36,困难,"1,960","5,945",https://leetcode-cn.com/problems/sliding-window-median
+474,481. 神奇字符串,Magical String,20,中等,"1,258","2,586",https://leetcode-cn.com/problems/magical-string
+475,482. 密钥格式化,License Key Formatting,27,简单,"5,162","13,494",https://leetcode-cn.com/problems/license-key-formatting
+476,483. 最小好进制,Smallest Good Base,20,困难,674,"1,881",https://leetcode-cn.com/problems/smallest-good-base
+477,484. 寻找排列,Find Permutation,9,中等,305,464,https://leetcode-cn.com/problems/find-permutation
+478,485. 最大连续1的个数,Max Consecutive Ones,71,简单,"23,866","43,399",https://leetcode-cn.com/problems/max-consecutive-ones
+479,486. 预测赢家,Predict The Winner,102,中等,"4,076","8,327",https://leetcode-cn.com/problems/predict-the-winner
+480,487. 最大连续1的个数 II,Max Consecutive Ones Ii,8,中等,535,"1,020",https://leetcode-cn.com/problems/max-consecutive-ones-ii
+481,488. 祖玛游戏,Zuma Game,29,困难,804,"1,999",https://leetcode-cn.com/problems/zuma-game
+482,489. 扫地机器人,Robot Room Cleaner,11,困难,230,312,https://leetcode-cn.com/problems/robot-room-cleaner
+483,490. 迷宫,The Maze,13,中等,"1,083","2,495",https://leetcode-cn.com/problems/the-maze
+484,491. 递增子序列,Increasing Subsequences,64,中等,"3,040","6,937",https://leetcode-cn.com/problems/increasing-subsequences
+485,492. 构造矩形,Construct The Rectangle,24,简单,"6,100","12,347",https://leetcode-cn.com/problems/construct-the-rectangle
+486,493. 翻转对,Reverse Pairs,53,困难,"2,147","10,185",https://leetcode-cn.com/problems/reverse-pairs
+487,494. 目标和,Target Sum,161,中等,"13,064","30,985",https://leetcode-cn.com/problems/target-sum
+488,495. 提莫攻击,Teemo Attacking,59,中等,"5,683","10,935",https://leetcode-cn.com/problems/teemo-attacking
+489,496. 下一个更大元素 I,Next Greater Element I,135,简单,"17,869","28,681",https://leetcode-cn.com/problems/next-greater-element-i
+490,497. 非重叠矩形中的随机点,Random Point In Non Overlapping Rectangles,8,中等,624,"1,718",https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles
+491,498. 对角线遍历,Diagonal Traverse,66,中等,"9,339","23,754",https://leetcode-cn.com/problems/diagonal-traverse
+492,499. 迷宫 III,The Maze Iii,7,困难,464,"1,624",https://leetcode-cn.com/problems/the-maze-iii
+493,500. 键盘行,Keyboard Row,68,简单,"12,413","18,294",https://leetcode-cn.com/problems/keyboard-row
+494,501. 二叉搜索树中的众数,Find Mode In Binary Search Tree,67,简单,"6,803","15,994",https://leetcode-cn.com/problems/find-mode-in-binary-search-tree
+495,502. IPO,Ipo,18,困难,"1,238","3,476",https://leetcode-cn.com/problems/ipo
+496,503. 下一个更大元素 II,Next Greater Element Ii,68,中等,"7,423","14,566",https://leetcode-cn.com/problems/next-greater-element-ii
+497,504. 七进制数,Base 7,28,简单,"7,410","15,661",https://leetcode-cn.com/problems/base-7
+498,505. 迷宫 II,The Maze Ii,16,中等,738,"1,775",https://leetcode-cn.com/problems/the-maze-ii
+499,506. 相对名次,Relative Ranks,32,简单,"6,255","11,973",https://leetcode-cn.com/problems/relative-ranks
+500,507. 完美数,Perfect Number,41,简单,"9,381","25,545",https://leetcode-cn.com/problems/perfect-number
+501,508. 出现次数最多的子树元素和,Most Frequent Subtree Sum,43,中等,"2,851","4,787",https://leetcode-cn.com/problems/most-frequent-subtree-sum
+502,509. 斐波那契数,Fibonacci Number,70,简单,"29,451","45,077",https://leetcode-cn.com/problems/fibonacci-number
+503,510. 二叉搜索树中的中序后继 II,Inorder Successor In Bst Ii,8,中等,292,536,https://leetcode-cn.com/problems/inorder-successor-in-bst-ii
+504,511. 游戏玩法分析 I,Game Play Analysis I,1,简单,"1,512","2,147",https://leetcode-cn.com/problems/game-play-analysis-i
+505,512. 游戏玩法分析 II,Game Play Analysis Ii,9,简单,"1,540","3,070",https://leetcode-cn.com/problems/game-play-analysis-ii
+506,513. 找树左下角的值,Find Bottom Left Tree Value,55,中等,"7,498","11,156",https://leetcode-cn.com/problems/find-bottom-left-tree-value
+507,514. 自由之路,Freedom Trail,29,困难,980,"2,619",https://leetcode-cn.com/problems/freedom-trail
+508,515. 在每个树行中找最大值,Find Largest Value In Each Tree Row,47,中等,"5,418","9,547",https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row
+509,516. 最长回文子序列,Longest Palindromic Subsequence,127,中等,"9,833","20,521",https://leetcode-cn.com/problems/longest-palindromic-subsequence
+510,517. 超级洗衣机,Super Washing Machines,25,困难,878,"2,315",https://leetcode-cn.com/problems/super-washing-machines
+511,518. 零钱兑换 II,Coin Change 2,91,中等,"5,498","11,779",https://leetcode-cn.com/problems/coin-change-2
+512,519. 随机翻转矩阵,Random Flip Matrix,9,中等,546,"1,594",https://leetcode-cn.com/problems/random-flip-matrix
+513,520. 检测大写字母,Detect Capital,66,简单,"13,117","24,242",https://leetcode-cn.com/problems/detect-capital
+514,521. 最长特殊序列 Ⅰ,Longest Uncommon Subsequence I,38,简单,"7,614","11,709",https://leetcode-cn.com/problems/longest-uncommon-subsequence-i
+515,522. 最长特殊序列 II,Longest Uncommon Subsequence Ii,20,中等,"1,289","4,114",https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii
+516,523. 连续的子数组和,Continuous Subarray Sum,53,中等,"4,891","21,783",https://leetcode-cn.com/problems/continuous-subarray-sum
+517,524. 通过删除字母匹配到字典里最长单词,Longest Word In Dictionary Through Deleting,36,中等,"5,225","11,843",https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting
+518,525. 连续数组,Contiguous Array,68,中等,"2,561","6,437",https://leetcode-cn.com/problems/contiguous-array
+519,526. 优美的排列,Beautiful Arrangement,44,中等,"3,055","5,312",https://leetcode-cn.com/problems/beautiful-arrangement
+520,527. 单词缩写,Word Abbreviation,4,困难,475,992,https://leetcode-cn.com/problems/word-abbreviation
+521,528. 按权重随机选择,Random Pick With Weight,10,中等,"1,103","2,822",https://leetcode-cn.com/problems/random-pick-with-weight
+522,529. 扫雷游戏,Minesweeper,42,中等,"3,256","5,645",https://leetcode-cn.com/problems/minesweeper
+523,530. 二叉搜索树的最小绝对差,Minimum Absolute Difference In Bst,81,简单,"7,757","14,167",https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst
+524,531. 孤独像素 I,Lonely Pixel I,2,中等,505,770,https://leetcode-cn.com/problems/lonely-pixel-i
+525,532. 数组中的K-diff数对,K Diff Pairs In An Array,51,简单,"8,608","26,223",https://leetcode-cn.com/problems/k-diff-pairs-in-an-array
+526,533. 孤独像素 II,Lonely Pixel Ii,3,中等,251,568,https://leetcode-cn.com/problems/lonely-pixel-ii
+527,534. 游戏玩法分析 III,Game Play Analysis Iii,4,中等,"1,099","1,721",https://leetcode-cn.com/problems/game-play-analysis-iii
+528,535. TinyURL 的加密与解密,Encode And Decode Tinyurl,53,中等,"5,837","7,242",https://leetcode-cn.com/problems/encode-and-decode-tinyurl
+529,536. 从字符串生成二叉树,Construct Binary Tree From String,10,中等,529,"1,132",https://leetcode-cn.com/problems/construct-binary-tree-from-string
+530,537. 复数乘法,Complex Number Multiplication,21,中等,"3,558","5,313",https://leetcode-cn.com/problems/complex-number-multiplication
+531,538. 把二叉搜索树转换为累加树,Convert Bst To Greater Tree,170,简单,"12,210","21,213",https://leetcode-cn.com/problems/convert-bst-to-greater-tree
+532,539. 最小时间差,Minimum Time Difference,36,中等,"2,992","5,777",https://leetcode-cn.com/problems/minimum-time-difference
+533,540. 有序数组中的单一元素,Single Element In A Sorted Array,63,中等,"5,446","9,012",https://leetcode-cn.com/problems/single-element-in-a-sorted-array
+534,541. 反转字符串 II,Reverse String Ii,51,简单,"9,225","18,317",https://leetcode-cn.com/problems/reverse-string-ii
+535,542. 01 矩阵,01 Matrix,127,中等,"8,508","22,916",https://leetcode-cn.com/problems/01-matrix
+536,543. 二叉树的直径,Diameter Of Binary Tree,164,简单,"14,621","31,497",https://leetcode-cn.com/problems/diameter-of-binary-tree
+537,544. 输出比赛匹配对,Output Contest Matches,5,中等,469,714,https://leetcode-cn.com/problems/output-contest-matches
+538,545. 二叉树的边界,Boundary Of Binary Tree,4,中等,278,823,https://leetcode-cn.com/problems/boundary-of-binary-tree
+539,546. 移除盒子,Remove Boxes,55,困难,"1,317","2,672",https://leetcode-cn.com/problems/remove-boxes
+540,547. 朋友圈,Friend Circles,159,中等,"19,941","37,023",https://leetcode-cn.com/problems/friend-circles
+541,548. 将数组分割成和相等的子数组,Split Array With Equal Sum,3,中等,393,"1,318",https://leetcode-cn.com/problems/split-array-with-equal-sum
+542,549. 二叉树中最长的连续序列,Binary Tree Longest Consecutive Sequence Ii,8,中等,249,499,https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii
+543,550. 游戏玩法分析 IV,Game Play Analysis Iv,5,中等,909,"2,150",https://leetcode-cn.com/problems/game-play-analysis-iv
+544,551. 学生出勤记录 I,Student Attendance Record I,23,简单,"9,382","18,819",https://leetcode-cn.com/problems/student-attendance-record-i
+545,552. 学生出勤记录 II,Student Attendance Record Ii,41,困难,"1,220","3,240",https://leetcode-cn.com/problems/student-attendance-record-ii
+546,553. 最优除法,Optimal Division,27,中等,"1,539","2,897",https://leetcode-cn.com/problems/optimal-division
+547,554. 砖墙,Brick Wall,47,中等,"5,938","17,143",https://leetcode-cn.com/problems/brick-wall
+548,555. 分割连接字符串,Split Concatenated Strings,5,中等,226,734,https://leetcode-cn.com/problems/split-concatenated-strings
+549,556. 下一个更大元素 III,Next Greater Element Iii,42,中等,"2,175","7,687",https://leetcode-cn.com/problems/next-greater-element-iii
+550,557. 反转字符串中的单词 III,Reverse Words In A String Iii,138,简单,"36,497","53,279",https://leetcode-cn.com/problems/reverse-words-in-a-string-iii
+551,558. 四叉树交集,Quad Tree Intersection,9,简单,"1,579","3,508",https://leetcode-cn.com/problems/quad-tree-intersection
+552,559. N叉树的最大深度,Maximum Depth Of N Ary Tree,61,简单,"13,979","20,704",https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree
+553,560. 和为K的子数组,Subarray Sum Equals K,174,中等,"11,829","27,832",https://leetcode-cn.com/problems/subarray-sum-equals-k
+554,561. 数组拆分 I,Array Partition I,127,简单,"25,184","36,699",https://leetcode-cn.com/problems/array-partition-i
+555,562. 矩阵中最长的连续1线段,Longest Line Of Consecutive One In Matrix,3,中等,833,"2,338",https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix
+556,563. 二叉树的坡度,Binary Tree Tilt,41,简单,"6,807","13,265",https://leetcode-cn.com/problems/binary-tree-tilt
+557,564. 寻找最近的回文数,Find The Closest Palindrome,37,困难,"1,154","8,679",https://leetcode-cn.com/problems/find-the-closest-palindrome
+558,565. 数组嵌套,Array Nesting,62,中等,"2,807","5,299",https://leetcode-cn.com/problems/array-nesting
+559,566. 重塑矩阵,Reshape The Matrix,87,简单,"11,222","17,900",https://leetcode-cn.com/problems/reshape-the-matrix
+560,567. 字符串的排列,Permutation In String,80,中等,"12,539","37,685",https://leetcode-cn.com/problems/permutation-in-string
+561,568. 最大休假天数,Maximum Vacation Days,2,困难,200,445,https://leetcode-cn.com/problems/maximum-vacation-days
+562,569. 员工薪水中位数,Median Employee Salary,3,困难,576,"1,249",https://leetcode-cn.com/problems/median-employee-salary
+563,570. 至少有5名直接下属的经理,Managers With At Least 5 Direct Reports,3,中等,"1,140","1,753",https://leetcode-cn.com/problems/managers-with-at-least-5-direct-reports
+564,571. 给定数字的频率查询中位数,Find Median Given Frequency Of Numbers,5,困难,347,734,https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers
+565,572. 另一个树的子树,Subtree Of Another Tree,132,简单,"10,737","25,420",https://leetcode-cn.com/problems/subtree-of-another-tree
+566,573. 松鼠模拟,Squirrel Simulation,3,中等,169,277,https://leetcode-cn.com/problems/squirrel-simulation
+567,574. 当选者,Winning Candidate,1,中等,985,"2,168",https://leetcode-cn.com/problems/winning-candidate
+568,575. 分糖果,Distribute Candies,46,简单,"12,833","19,902",https://leetcode-cn.com/problems/distribute-candies
+569,576. 出界的路径数,Out Of Boundary Paths,33,中等,"1,835","5,328",https://leetcode-cn.com/problems/out-of-boundary-paths
+570,577. 员工奖金,Employee Bonus,0,简单,"1,539","2,266",https://leetcode-cn.com/problems/employee-bonus
+571,578. 查询回答率最高的问题,Get Highest Answer Rate Question,0,中等,746,"1,800",https://leetcode-cn.com/problems/get-highest-answer-rate-question
+572,579. 查询员工的累计薪水,Find Cumulative Salary Of An Employee,4,困难,590,"1,603",https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee
+573,580. 统计各专业学生人数,Count Student Number In Departments,3,中等,903,"1,890",https://leetcode-cn.com/problems/count-student-number-in-departments
+574,581. 最短无序连续子数组,Shortest Unsorted Continuous Subarray,189,简单,"13,561","40,802",https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray
+575,582. 杀死进程,Kill Process,14,中等,"2,329","7,357",https://leetcode-cn.com/problems/kill-process
+576,583. 两个字符串的删除操作,Delete Operation For Two Strings,73,中等,"3,807","8,325",https://leetcode-cn.com/problems/delete-operation-for-two-strings
+577,584. 寻找用户推荐人,Find Customer Referee,3,简单,"1,500","2,021",https://leetcode-cn.com/problems/find-customer-referee
+578,585. 2016年的投资,Investments In 2016,7,中等,669,"1,335",https://leetcode-cn.com/problems/investments-in-2016
+579,586. 订单最多的客户,Customer Placing The Largest Number Of Orders,3,简单,"1,458","2,055",https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders
+580,587. 安装栅栏,Erect The Fence,22,困难,393,"1,279",https://leetcode-cn.com/problems/erect-the-fence
+581,588. 设计内存文件系统,Design In Memory File System,7,困难,317,974,https://leetcode-cn.com/problems/design-in-memory-file-system
+582,589. N叉树的前序遍历,N Ary Tree Preorder Traversal,58,简单,"14,867","20,968",https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal
+583,590. N叉树的后序遍历,N Ary Tree Postorder Traversal,40,简单,"12,850","18,085",https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal
+584,591. 标签验证器,Tag Validator,10,困难,316,"1,109",https://leetcode-cn.com/problems/tag-validator
+585,592. 分数加减运算,Fraction Addition And Subtraction,12,中等,922,"1,911",https://leetcode-cn.com/problems/fraction-addition-and-subtraction
+586,593. 有效的正方形,Valid Square,25,中等,"2,324","5,691",https://leetcode-cn.com/problems/valid-square
+587,594. 最长和谐子序列,Longest Harmonious Subsequence,63,简单,"6,296","14,351",https://leetcode-cn.com/problems/longest-harmonious-subsequence
+588,595. 大的国家,Big Countries,109,简单,"35,872","47,135",https://leetcode-cn.com/problems/big-countries
+589,596. 超过5名学生的课,Classes More Than 5 Students,117,简单,"23,316","59,844",https://leetcode-cn.com/problems/classes-more-than-5-students
+590,597. 好友申请 I ：总体通过率,Friend Requests I Overall Acceptance Rate,11,简单,946,"2,379",https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate
+591,598. 范围求和 II,Range Addition Ii,23,简单,"4,504","9,003",https://leetcode-cn.com/problems/range-addition-ii
+592,599. 两个列表的最小索引总和,Minimum Index Sum Of Two Lists,48,简单,"8,561","17,467",https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists
+593,600. 不含连续1的非负整数,Non Negative Integers Without Consecutive Ones,38,困难,"1,172","4,162",https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones
+594,601. 体育馆的人流量,Human Traffic Of Stadium,79,困难,"8,452","19,228",https://leetcode-cn.com/problems/human-traffic-of-stadium
+595,602. 好友申请 II ：谁有最多的好友,Friend Requests Ii Who Has The Most Friends,3,中等,642,"1,186",https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends
+596,603. 连续空余座位,Consecutive Available Seats,11,简单,"1,185","1,834",https://leetcode-cn.com/problems/consecutive-available-seats
+597,604. 迭代压缩字符串,Design Compressed String Iterator,3,简单,248,718,https://leetcode-cn.com/problems/design-compressed-string-iterator
+598,605. 种花问题,Can Place Flowers,93,简单,"13,477","44,218",https://leetcode-cn.com/problems/can-place-flowers
+599,606. 根据二叉树创建字符串,Construct String From Binary Tree,84,简单,"7,261","14,079",https://leetcode-cn.com/problems/construct-string-from-binary-tree
+600,607. 销售员,Sales Person,3,简单,"1,221","1,934",https://leetcode-cn.com/problems/sales-person
+601,608. 树节点,Tree Node,4,中等,724,"1,092",https://leetcode-cn.com/problems/tree-node
+602,609. 在系统中查找重复文件,Find Duplicate File In System,19,中等,"1,225","2,251",https://leetcode-cn.com/problems/find-duplicate-file-in-system
+603,610. 判断三角形,Triangle Judgement,1,简单,"1,108","1,747",https://leetcode-cn.com/problems/triangle-judgement
+604,611. 有效三角形的个数,Valid Triangle Number,50,中等,"3,713","7,895",https://leetcode-cn.com/problems/valid-triangle-number
+605,612. 平面上的最近距离,Shortest Distance In A Plane,1,中等,620,"1,023",https://leetcode-cn.com/problems/shortest-distance-in-a-plane
+606,613. 直线上的最近距离,Shortest Distance In A Line,7,简单,"1,446","1,823",https://leetcode-cn.com/problems/shortest-distance-in-a-line
+607,614. 二级关注者,Second Degree Follower,1,中等,678,"2,410",https://leetcode-cn.com/problems/second-degree-follower
+608,615. 平均工资：部门与公司比较,Average Salary Departments Vs Company,1,困难,438,"1,043",https://leetcode-cn.com/problems/average-salary-departments-vs-company
+609,616. 给字符串添加加粗标签,Add Bold Tag In String,13,中等,881,"2,054",https://leetcode-cn.com/problems/add-bold-tag-in-string
+610,617. 合并二叉树,Merge Two Binary Trees,267,简单,"27,972","37,682",https://leetcode-cn.com/problems/merge-two-binary-trees
+611,618. 学生地理信息报告,Students Report By Geography,5,困难,272,572,https://leetcode-cn.com/problems/students-report-by-geography
+612,619. 只出现一次的最大数字,Biggest Single Number,5,简单,"1,256","2,707",https://leetcode-cn.com/problems/biggest-single-number
+613,620. 有趣的电影,Not Boring Movies,63,简单,"29,831","40,447",https://leetcode-cn.com/problems/not-boring-movies
+614,621. 任务调度器,Task Scheduler,155,中等,"10,592","22,961",https://leetcode-cn.com/problems/task-scheduler
+615,622. 设计循环队列,Design Circular Queue,71,中等,"17,126","43,423",https://leetcode-cn.com/problems/design-circular-queue
+616,623. 在二叉树中增加一行,Add One Row To Tree,41,中等,"2,329","4,710",https://leetcode-cn.com/problems/add-one-row-to-tree
+617,624. 数组列表中的最大距离,Maximum Distance In Arrays,6,简单,445,"1,151",https://leetcode-cn.com/problems/maximum-distance-in-arrays
+618,625. 最小因式分解,Minimum Factorization,6,中等,415,"1,294",https://leetcode-cn.com/problems/minimum-factorization
+619,626. 换座位,Exchange Seats,132,中等,"13,001","19,875",https://leetcode-cn.com/problems/exchange-seats
+620,627. 交换工资,Swap Salary,128,简单,"25,596","34,574",https://leetcode-cn.com/problems/swap-salary
+621,628. 三个数的最大乘积,Maximum Product Of Three Numbers,90,简单,"12,308","25,604",https://leetcode-cn.com/problems/maximum-product-of-three-numbers
+622,629. K个逆序对数组,K Inverse Pairs Array,27,困难,744,"2,025",https://leetcode-cn.com/problems/k-inverse-pairs-array
+623,630. 课程表 III,Course Schedule Iii,29,困难,"1,047","3,601",https://leetcode-cn.com/problems/course-schedule-iii
+624,631. 设计 Excel 求和公式,Design Excel Sum Formula,6,困难,250,"1,214",https://leetcode-cn.com/problems/design-excel-sum-formula
+625,632. 最小区间,Smallest Range Covering Elements From K Lists,64,困难,"1,629","4,879",https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists
+626,633. 平方数之和,Sum Of Square Numbers,80,简单,"11,076","34,549",https://leetcode-cn.com/problems/sum-of-square-numbers
+627,634. 寻找数组的错位排列,Find The Derangement Of An Array,4,中等,154,392,https://leetcode-cn.com/problems/find-the-derangement-of-an-array
+628,635. 设计日志存储系统,Design Log Storage System,7,中等,492,900,https://leetcode-cn.com/problems/design-log-storage-system
+629,636. 函数的独占时间,Exclusive Time Of Functions,29,中等,"1,550","3,211",https://leetcode-cn.com/problems/exclusive-time-of-functions
+630,637. 二叉树的层平均值,Average Of Levels In Binary Tree,85,简单,"10,973","17,695",https://leetcode-cn.com/problems/average-of-levels-in-binary-tree
+631,638. 大礼包,Shopping Offers,60,中等,"2,746","4,936",https://leetcode-cn.com/problems/shopping-offers
+632,639. 解码方法 2,Decode Ways Ii,33,困难,886,"3,501",https://leetcode-cn.com/problems/decode-ways-ii
+633,640. 求解方程,Solve The Equation,25,中等,"1,254","3,227",https://leetcode-cn.com/problems/solve-the-equation
+634,641. 设计循环双端队列,Design Circular Deque,20,中等,"3,531","7,293",https://leetcode-cn.com/problems/design-circular-deque
+635,642. 设计搜索自动补全系统,Design Search Autocomplete System,8,困难,276,609,https://leetcode-cn.com/problems/design-search-autocomplete-system
+636,643. 子数组最大平均数 I,Maximum Average Subarray I,62,简单,"8,906","24,391",https://leetcode-cn.com/problems/maximum-average-subarray-i
+637,644. 最大平均子段和 II,Maximum Average Subarray Ii,9,困难,150,472,https://leetcode-cn.com/problems/maximum-average-subarray-ii
+638,645. 错误的集合,Set Mismatch,62,简单,"7,751","19,693",https://leetcode-cn.com/problems/set-mismatch
+639,646. 最长数对链,Maximum Length Of Pair Chain,47,中等,"3,977","7,675",https://leetcode-cn.com/problems/maximum-length-of-pair-chain
+640,647. 回文子串,Palindromic Substrings,163,中等,"13,523","22,673",https://leetcode-cn.com/problems/palindromic-substrings
+641,648. 单词替换,Replace Words,42,中等,"3,077","5,805",https://leetcode-cn.com/problems/replace-words
+642,649. Dota2 参议院,Dota2 Senate,43,中等,"1,935","5,331",https://leetcode-cn.com/problems/dota2-senate
+643,650. 只有两个键的键盘,2 Keys Keyboard,109,中等,"5,025","10,933",https://leetcode-cn.com/problems/2-keys-keyboard
+644,651. 4键键盘,4 Keys Keyboard,7,中等,614,"1,095",https://leetcode-cn.com/problems/4-keys-keyboard
+645,652. 寻找重复的子树,Find Duplicate Subtrees,63,中等,"4,046","7,776",https://leetcode-cn.com/problems/find-duplicate-subtrees
+646,653. 两数之和 IV - 输入 BST,Two Sum Iv Input Is A Bst,104,简单,"8,939","17,022",https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst
+647,654. 最大二叉树,Maximum Binary Tree,93,中等,"8,965","11,495",https://leetcode-cn.com/problems/maximum-binary-tree
+648,655. 输出二叉树,Print Binary Tree,38,中等,"1,940","3,670",https://leetcode-cn.com/problems/print-binary-tree
+649,656. 金币路径,Coin Path,7,困难,190,763,https://leetcode-cn.com/problems/coin-path
+650,657. 机器人能否返回原点,Robot Return To Origin,105,简单,"24,994","34,425",https://leetcode-cn.com/problems/robot-return-to-origin
+651,658. 找到 K 个最接近的元素,Find K Closest Elements,45,中等,"4,930","11,797",https://leetcode-cn.com/problems/find-k-closest-elements
+652,659. 分割数组为连续子序列,Split Array Into Consecutive Subsequences,37,中等,"1,600","3,986",https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences
+653,660. 移除 9,Remove 9,2,困难,113,212,https://leetcode-cn.com/problems/remove-9
+654,661. 图片平滑器,Image Smoother,34,简单,"5,178","10,057",https://leetcode-cn.com/problems/image-smoother
+655,662. 二叉树最大宽度,Maximum Width Of Binary Tree,59,中等,"3,651","10,566",https://leetcode-cn.com/problems/maximum-width-of-binary-tree
+656,663. 均匀树划分,Equal Tree Partition,7,中等,323,811,https://leetcode-cn.com/problems/equal-tree-partition
+657,664. 奇怪的打印机,Strange Printer,33,困难,907,"2,250",https://leetcode-cn.com/problems/strange-printer
+658,665. 非递减数列,Non Decreasing Array,204,简单,"11,202","53,169",https://leetcode-cn.com/problems/non-decreasing-array
+659,666. 路径和 IV,Path Sum Iv,5,中等,298,499,https://leetcode-cn.com/problems/path-sum-iv
+660,667. 优美的排列 II,Beautiful Arrangement Ii,30,中等,"1,951","3,421",https://leetcode-cn.com/problems/beautiful-arrangement-ii
+661,668. 乘法表中第k小的数,Kth Smallest Number In Multiplication Table,50,困难,"1,551","3,538",https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table
+662,669. 修剪二叉搜索树,Trim A Binary Search Tree,140,简单,"7,250","11,474",https://leetcode-cn.com/problems/trim-a-binary-search-tree
+663,670. 最大交换,Maximum Swap,51,中等,"3,090","8,257",https://leetcode-cn.com/problems/maximum-swap
+664,671. 二叉树中第二小的节点,Second Minimum Node In A Binary Tree,55,简单,"6,206","13,910",https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree
+665,672. 灯泡开关 Ⅱ,Bulb Switcher Ii,30,中等,966,"1,882",https://leetcode-cn.com/problems/bulb-switcher-ii
+666,673. 最长递增子序列的个数,Number Of Longest Increasing Subsequence,85,中等,"4,244","12,983",https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence
+667,674. 最长连续递增序列,Longest Continuous Increasing Subsequence,50,简单,"14,208","32,825",https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence
+668,675. 为高尔夫比赛砍树,Cut Off Trees For Golf Event,25,困难,490,"1,577",https://leetcode-cn.com/problems/cut-off-trees-for-golf-event
+669,676. 实现一个魔法字典,Implement Magic Dictionary,22,中等,"1,302","2,409",https://leetcode-cn.com/problems/implement-magic-dictionary
+670,677. 键值映射,Map Sum Pairs,31,中等,"3,836","6,410",https://leetcode-cn.com/problems/map-sum-pairs
+671,678. 有效的括号字符串,Valid Parenthesis String,60,中等,"2,470","8,628",https://leetcode-cn.com/problems/valid-parenthesis-string
+672,679. 24 点游戏,24 Game,57,困难,"2,271","5,612",https://leetcode-cn.com/problems/24-game
+673,680. 验证回文字符串 Ⅱ,Valid Palindrome Ii,102,简单,"9,910","29,088",https://leetcode-cn.com/problems/valid-palindrome-ii
+674,681. 最近时刻,Next Closest Time,11,中等,351,762,https://leetcode-cn.com/problems/next-closest-time
+675,682. 棒球比赛,Baseball Game,89,简单,"14,171","21,869",https://leetcode-cn.com/problems/baseball-game
+676,683. K 个空花盆,K Empty Slots,13,困难,280,689,https://leetcode-cn.com/problems/k-empty-slots
+677,684. 冗余连接,Redundant Connection,69,中等,"4,923","9,025",https://leetcode-cn.com/problems/redundant-connection
+678,685. 冗余连接 II,Redundant Connection Ii,32,困难,"1,255","3,901",https://leetcode-cn.com/problems/redundant-connection-ii
+679,686. 重复叠加字符串匹配,Repeated String Match,58,简单,"5,975","18,380",https://leetcode-cn.com/problems/repeated-string-match
+680,687. 最长同值路径,Longest Univalue Path,164,简单,"8,722","23,013",https://leetcode-cn.com/problems/longest-univalue-path
+681,688. “马”在棋盘上的概率,Knight Probability In Chessboard,28,中等,"1,804","4,067",https://leetcode-cn.com/problems/knight-probability-in-chessboard
+682,689. 三个无重叠子数组的最大和,Maximum Sum Of 3 Non Overlapping Subarrays,29,困难,672,"1,615",https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays
+683,690. 员工的重要性,Employee Importance,60,简单,"7,457","13,493",https://leetcode-cn.com/problems/employee-importance
+684,691. 贴纸拼词,Stickers To Spell Word,30,困难,677,"1,579",https://leetcode-cn.com/problems/stickers-to-spell-word
+685,692. 前K个高频单词,Top K Frequent Words,57,中等,"5,661","12,204",https://leetcode-cn.com/problems/top-k-frequent-words
+686,693. 交替位二进制数,Binary Number With Alternating Bits,49,简单,"9,560","15,922",https://leetcode-cn.com/problems/binary-number-with-alternating-bits
+687,694. 不同岛屿的数量,Number Of Distinct Islands,6,中等,591,"1,364",https://leetcode-cn.com/problems/number-of-distinct-islands
+688,695. 岛屿的最大面积,Max Area Of Island,158,中等,"13,999","23,813",https://leetcode-cn.com/problems/max-area-of-island
+689,696. 计数二进制子串,Count Binary Substrings,109,简单,"6,063","12,467",https://leetcode-cn.com/problems/count-binary-substrings
+690,697. 数组的度,Degree Of An Array,85,简单,"8,828","17,681",https://leetcode-cn.com/problems/degree-of-an-array
+691,698. 划分为k个相等的子集,Partition To K Equal Sum Subsets,104,中等,"5,272","13,087",https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets
+692,699. 掉落的方块,Falling Squares,21,困难,476,"1,239",https://leetcode-cn.com/problems/falling-squares
+693,700. 二叉搜索树中的搜索,Search In A Binary Search Tree,45,简单,"14,695","20,699",https://leetcode-cn.com/problems/search-in-a-binary-search-tree
+694,701. 二叉搜索树中的插入操作,Insert Into A Binary Search Tree,36,中等,"6,367","9,008",https://leetcode-cn.com/problems/insert-into-a-binary-search-tree
+695,702. 搜索长度未知的有序数组,Search In A Sorted Array Of Unknown Size,3,中等,533,826,https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size
+696,703. 数据流中的第K大元素,Kth Largest Element In A Stream,89,简单,"11,074","26,826",https://leetcode-cn.com/problems/kth-largest-element-in-a-stream
+697,704. 二分查找,Binary Search,93,简单,"25,003","48,575",https://leetcode-cn.com/problems/binary-search
+698,705. 设计哈希集合,Design Hashset,27,简单,"8,468","15,556",https://leetcode-cn.com/problems/design-hashset
+699,706. 设计哈希映射,Design Hashmap,24,简单,"7,343","13,146",https://leetcode-cn.com/problems/design-hashmap
+700,707. 设计链表,Design Linked List,108,中等,"13,304","56,585",https://leetcode-cn.com/problems/design-linked-list
+701,708. 循环有序列表的插入,Insert Into A Sorted Circular Linked List,7,中等,292,"1,050",https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list
+702,709. 转换成小写字母,To Lower Case,103,简单,"33,537","44,635",https://leetcode-cn.com/problems/to-lower-case
+703,710. 黑名单中的随机数,Random Pick With Blacklist,15,困难,724,"2,651",https://leetcode-cn.com/problems/random-pick-with-blacklist
+704,711. 不同岛屿的数量 II,Number Of Distinct Islands Ii,6,困难,163,316,https://leetcode-cn.com/problems/number-of-distinct-islands-ii
+705,712. 两个字符串的最小ASCII删除和,Minimum Ascii Delete Sum For Two Strings,78,中等,"2,894","4,835",https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings
+706,713. 乘积小于K的子数组,Subarray Product Less Than K,74,中等,"3,368","10,098",https://leetcode-cn.com/problems/subarray-product-less-than-k
+707,714. 买卖股票的最佳时机含手续费,Best Time To Buy And Sell Stock With Transaction Fee,105,中等,"7,472","12,670",https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
+708,715. Range 模块,Range Module,21,困难,464,"1,492",https://leetcode-cn.com/problems/range-module
+709,716. 最大栈,Max Stack,7,简单,463,"1,123",https://leetcode-cn.com/problems/max-stack
+710,717. 1比特与2比特字符,1 Bit And 2 Bit Characters,101,简单,"11,414","25,007",https://leetcode-cn.com/problems/1-bit-and-2-bit-characters
+711,718. 最长重复子数组,Maximum Length Of Repeated Subarray,107,中等,"6,959","14,598",https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray
+712,719. 找出第 k 小的距离对,Find K Th Smallest Pair Distance,45,困难,"1,992","6,599",https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance
+713,720. 词典中最长的单词,Longest Word In Dictionary,51,简单,"4,877","11,072",https://leetcode-cn.com/problems/longest-word-in-dictionary
+714,721. 账户合并,Accounts Merge,41,中等,"1,716","5,699",https://leetcode-cn.com/problems/accounts-merge
+715,722. 删除注释,Remove Comments,14,中等,"1,106","4,186",https://leetcode-cn.com/problems/remove-comments
+716,723. 粉碎糖果,Candy Crush,9,中等,287,463,https://leetcode-cn.com/problems/candy-crush
+717,724. 寻找数组的中心索引,Find Pivot Index,135,简单,"23,031","64,651",https://leetcode-cn.com/problems/find-pivot-index
+718,725. 分隔链表,Split Linked List In Parts,37,中等,"4,387","8,444",https://leetcode-cn.com/problems/split-linked-list-in-parts
+719,726. 原子的数量,Number Of Atoms,32,困难,"1,255","2,946",https://leetcode-cn.com/problems/number-of-atoms
+720,727. 最小窗口子序列,Minimum Window Subsequence,9,困难,332,853,https://leetcode-cn.com/problems/minimum-window-subsequence
+721,728. 自除数,Self Dividing Numbers,83,简单,"15,495","21,647",https://leetcode-cn.com/problems/self-dividing-numbers
+722,729. 我的日程安排表 I,My Calendar I,21,中等,"1,768","3,980",https://leetcode-cn.com/problems/my-calendar-i
+723,730. 统计不同回文子字符串,Count Different Palindromic Subsequences,28,困难,552,"1,283",https://leetcode-cn.com/problems/count-different-palindromic-subsequences
+724,731. 我的日程安排表 II,My Calendar Ii,21,中等,928,"2,189",https://leetcode-cn.com/problems/my-calendar-ii
+725,732. 我的日程安排表 III,My Calendar Iii,15,困难,734,"1,346",https://leetcode-cn.com/problems/my-calendar-iii
+726,733. 图像渲染,Flood Fill,47,简单,"7,443","14,225",https://leetcode-cn.com/problems/flood-fill
+727,734. 句子相似性,Sentence Similarity,6,简单,337,692,https://leetcode-cn.com/problems/sentence-similarity
+728,735. 行星碰撞,Asteroid Collision,46,中等,"3,941","10,775",https://leetcode-cn.com/problems/asteroid-collision
+729,736. Lisp 语法解析,Parse Lisp Expression,9,困难,326,770,https://leetcode-cn.com/problems/parse-lisp-expression
+730,737. 句子相似性 II,Sentence Similarity Ii,1,中等,419,"1,165",https://leetcode-cn.com/problems/sentence-similarity-ii
+731,738. 单调递增的数字,Monotone Increasing Digits,33,中等,"2,571","6,408",https://leetcode-cn.com/problems/monotone-increasing-digits
+732,739. 每日温度,Daily Temperatures,196,中等,"22,620","40,094",https://leetcode-cn.com/problems/daily-temperatures
+733,740. 删除与获得点数,Delete And Earn,80,中等,"2,529","5,049",https://leetcode-cn.com/problems/delete-and-earn
+734,741. 摘樱桃,Cherry Pickup,40,困难,784,"2,707",https://leetcode-cn.com/problems/cherry-pickup
+735,742. 二叉树最近的叶节点,Closest Leaf In A Binary Tree,6,中等,257,585,https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree
+736,743. 网络延迟时间,Network Delay Time,64,中等,"4,844","10,818",https://leetcode-cn.com/problems/network-delay-time
+737,744. 寻找比目标字母大的最小字母,Find Smallest Letter Greater Than Target,43,简单,"9,653","22,057",https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target
+738,745. 前缀和后缀搜索,Prefix And Suffix Search,15,困难,635,"2,158",https://leetcode-cn.com/problems/prefix-and-suffix-search
+739,746. 使用最小花费爬楼梯,Min Cost Climbing Stairs,196,简单,"19,233","42,177",https://leetcode-cn.com/problems/min-cost-climbing-stairs
+740,747. 至少是其他数字两倍的最大数,Largest Number At Least Twice Of Others,45,简单,"18,917","49,087",https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others
+741,748. 最短完整词,Shortest Completing Word,20,简单,"3,611","6,448",https://leetcode-cn.com/problems/shortest-completing-word
+742,749. 隔离病毒,Contain Virus,9,困难,292,611,https://leetcode-cn.com/problems/contain-virus
+743,750. 角矩形的数量,Number Of Corner Rectangles,6,中等,379,528,https://leetcode-cn.com/problems/number-of-corner-rectangles
+744,751. IP 到 CIDR,Ip To Cidr,3,简单,371,636,https://leetcode-cn.com/problems/ip-to-cidr
+745,752. 打开转盘锁,Open The Lock,66,中等,"7,103","14,881",https://leetcode-cn.com/problems/open-the-lock
+746,753. 破解保险箱,Cracking The Safe,15,困难,547,"1,024",https://leetcode-cn.com/problems/cracking-the-safe
+747,754. 到达终点数字,Reach A Number,87,中等,"3,804","9,697",https://leetcode-cn.com/problems/reach-a-number
+748,755. 倒水,Pour Water,3,中等,300,638,https://leetcode-cn.com/problems/pour-water
+749,756. 金字塔转换矩阵,Pyramid Transition Matrix,23,中等,"1,270","2,425",https://leetcode-cn.com/problems/pyramid-transition-matrix
+750,757.  设置交集大小至少为2,Set Intersection Size At Least Two,19,困难,617,"1,857",https://leetcode-cn.com/problems/set-intersection-size-at-least-two
+751,758. 字符串中的加粗单词,Bold Words In String,3,简单,438,"1,080",https://leetcode-cn.com/problems/bold-words-in-string
+752,759. 员工空闲时间,Employee Free Time,4,困难,207,382,https://leetcode-cn.com/problems/employee-free-time
+753,760. 找出变位映射,Find Anagram Mappings,9,简单,804,"1,025",https://leetcode-cn.com/problems/find-anagram-mappings
+754,761. 特殊的二进制序列,Special Binary String,18,困难,484,895,https://leetcode-cn.com/problems/special-binary-string
+755,762. 二进制表示中质数个计算置位,Prime Number Of Set Bits In Binary Representation,28,简单,"6,856","10,398",https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation
+756,763. 划分字母区间,Partition Labels,80,中等,"5,659","8,233",https://leetcode-cn.com/problems/partition-labels
+757,764. 最大加号标志,Largest Plus Sign,24,中等,"1,240","2,673",https://leetcode-cn.com/problems/largest-plus-sign
+758,765. 情侣牵手,Couples Holding Hands,36,困难,"3,409","6,181",https://leetcode-cn.com/problems/couples-holding-hands
+759,766. 托普利茨矩阵,Toeplitz Matrix,83,简单,"8,935","14,351",https://leetcode-cn.com/problems/toeplitz-matrix
+760,767. 重构字符串,Reorganize String,48,中等,"3,147","8,311",https://leetcode-cn.com/problems/reorganize-string
+761,768. 最多能完成排序的块 II,Max Chunks To Make Sorted Ii,34,困难,"1,337","3,061",https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii
+762,769. 最多能完成排序的块,Max Chunks To Make Sorted,35,中等,"2,045","3,958",https://leetcode-cn.com/problems/max-chunks-to-make-sorted
+763,770. 基本计算器 IV,Basic Calculator Iv,12,困难,188,396,https://leetcode-cn.com/problems/basic-calculator-iv
+764,771. 宝石与石头,Jewels And Stones,485,简单,"63,500","78,203",https://leetcode-cn.com/problems/jewels-and-stones
+765,772. 基本计算器 III,Basic Calculator Iii,8,困难,382,"1,277",https://leetcode-cn.com/problems/basic-calculator-iii
+766,773. 滑动谜题,Sliding Puzzle,34,困难,"1,187","2,128",https://leetcode-cn.com/problems/sliding-puzzle
+767,774. 最小化去加油站的最大距离,Minimize Max Distance To Gas Station,3,困难,187,339,https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station
+768,775. 全局倒置与局部倒置,Global And Local Inversions,18,中等,"1,505","3,709",https://leetcode-cn.com/problems/global-and-local-inversions
+769,776. 拆分二叉搜索树,Split Bst,7,中等,315,624,https://leetcode-cn.com/problems/split-bst
+770,777. 在LR字符串中交换相邻字符,Swap Adjacent In Lr String,29,中等,"1,782","5,752",https://leetcode-cn.com/problems/swap-adjacent-in-lr-string
+771,778. 水位上升的泳池中游泳,Swim In Rising Water,24,困难,"1,385","3,087",https://leetcode-cn.com/problems/swim-in-rising-water
+772,779. 第K个语法符号,K Th Symbol In Grammar,44,中等,"5,262","12,452",https://leetcode-cn.com/problems/k-th-symbol-in-grammar
+773,780. 到达终点,Reaching Points,25,困难,810,"3,023",https://leetcode-cn.com/problems/reaching-points
+774,781. 森林中的兔子,Rabbits In Forest,17,中等,"2,334","4,437",https://leetcode-cn.com/problems/rabbits-in-forest
+775,782. 变为棋盘,Transform To Chessboard,13,困难,350,871,https://leetcode-cn.com/problems/transform-to-chessboard
+776,783. 二叉搜索树结点最小距离,Minimum Distance Between Bst Nodes,35,简单,"7,025","13,776",https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes
+777,784. 字母大小写全排列,Letter Case Permutation,119,简单,"11,203","18,279",https://leetcode-cn.com/problems/letter-case-permutation
+778,785. 判断二分图,Is Graph Bipartite,34,中等,"3,245","7,777",https://leetcode-cn.com/problems/is-graph-bipartite
+779,786. 第 K 个最小的素数分数,K Th Smallest Prime Fraction,20,困难,689,"2,080",https://leetcode-cn.com/problems/k-th-smallest-prime-fraction
+780,787. K 站中转内最便宜的航班,Cheapest Flights Within K Stops,53,中等,"2,735","8,112",https://leetcode-cn.com/problems/cheapest-flights-within-k-stops
+781,788. 旋转数字,Rotated Digits,51,简单,"7,579","13,023",https://leetcode-cn.com/problems/rotated-digits
+782,789. 逃脱阻碍者,Escape The Ghosts,8,中等,"1,686","2,920",https://leetcode-cn.com/problems/escape-the-ghosts
+783,790. 多米诺和托米诺平铺,Domino And Tromino Tiling,29,中等,955,"2,491",https://leetcode-cn.com/problems/domino-and-tromino-tiling
+784,791. 自定义字符串排序,Custom Sort String,30,中等,"3,164","4,973",https://leetcode-cn.com/problems/custom-sort-string
+785,792. 匹配子序列的单词数,Number Of Matching Subsequences,52,中等,"2,146","5,365",https://leetcode-cn.com/problems/number-of-matching-subsequences
+786,793. 阶乘函数后K个零,Preimage Size Of Factorial Zeroes Function,30,困难,962,"2,947",https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function
+787,794. 有效的井字游戏,Valid Tic Tac Toe State,11,中等,"2,123","6,613",https://leetcode-cn.com/problems/valid-tic-tac-toe-state
+788,795. 区间子数组个数,Number Of Subarrays With Bounded Maximum,38,中等,"1,923","4,168",https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum
+789,796. 旋转字符串,Rotate String,56,简单,"6,644","13,630",https://leetcode-cn.com/problems/rotate-string
+790,797. 所有可能的路径,All Paths From Source To Target,34,中等,"2,251","3,044",https://leetcode-cn.com/problems/all-paths-from-source-to-target
+791,798. 得分最高的最小轮调,Smallest Rotation With Highest Score,25,困难,317,940,https://leetcode-cn.com/problems/smallest-rotation-with-highest-score
+792,799. 香槟塔,Champagne Tower,29,中等,"1,145","3,375",https://leetcode-cn.com/problems/champagne-tower
+793,800. 相似 RGB 颜色,Similar Rgb Color,3,简单,302,470,https://leetcode-cn.com/problems/similar-rgb-color
+794,801. 使序列递增的最小交换次数,Minimum Swaps To Make Sequences Increasing,42,中等,"1,602","4,498",https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing
+795,802. 找到最终的安全状态,Find Eventual Safe States,24,中等,"1,907","4,260",https://leetcode-cn.com/problems/find-eventual-safe-states
+796,803. 打砖块,Bricks Falling When Hit,34,困难,387,"1,711",https://leetcode-cn.com/problems/bricks-falling-when-hit
+797,804. 唯一摩尔斯密码词,Unique Morse Code Words,88,简单,"19,772","26,878",https://leetcode-cn.com/problems/unique-morse-code-words
+798,805. 数组的均值分割,Split Array With Same Average,21,困难,661,"2,782",https://leetcode-cn.com/problems/split-array-with-same-average
+799,806. 写字符串需要的行数,Number Of Lines To Write String,30,简单,"5,841","9,212",https://leetcode-cn.com/problems/number-of-lines-to-write-string
+800,807. 保持城市天际线,Max Increase To Keep City Skyline,59,中等,"6,943","8,756",https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline
+801,808. 分汤,Soup Servings,18,中等,"1,335","3,040",https://leetcode-cn.com/problems/soup-servings
+802,809. 情感丰富的文字,Expressive Words,5,中等,978,"2,661",https://leetcode-cn.com/problems/expressive-words
+803,810. 黑板异或游戏,Chalkboard Xor Game,12,困难,595,"1,156",https://leetcode-cn.com/problems/chalkboard-xor-game
+804,811. 子域名访问计数,Subdomain Visit Count,50,简单,"6,479","9,891",https://leetcode-cn.com/problems/subdomain-visit-count
+805,812. 最大三角形面积,Largest Triangle Area,29,简单,"4,280","7,299",https://leetcode-cn.com/problems/largest-triangle-area
+806,813. 最大平均值和的分组,Largest Sum Of Averages,51,中等,"1,490","3,255",https://leetcode-cn.com/problems/largest-sum-of-averages
+807,814. 二叉树剪枝,Binary Tree Pruning,63,中等,"4,774","6,690",https://leetcode-cn.com/problems/binary-tree-pruning
+808,815. 公交路线,Bus Routes,19,困难,"1,411","4,825",https://leetcode-cn.com/problems/bus-routes
+809,816. 模糊坐标,Ambiguous Coordinates,14,中等,738,"1,573",https://leetcode-cn.com/problems/ambiguous-coordinates
+810,817. 链表组件,Linked List Components,28,中等,"3,880","7,058",https://leetcode-cn.com/problems/linked-list-components
+811,818. 赛车,Race Car,26,困难,653,"2,195",https://leetcode-cn.com/problems/race-car
+812,819. 最常见的单词,Most Common Word,31,简单,"5,755","15,410",https://leetcode-cn.com/problems/most-common-word
+813,820. 单词的压缩编码,Short Encoding Of Words,31,中等,"6,872","17,927",https://leetcode-cn.com/problems/short-encoding-of-words
+814,821. 字符的最短距离,Shortest Distance To A Character,91,简单,"8,964","13,649",https://leetcode-cn.com/problems/shortest-distance-to-a-character
+815,822. 翻转卡片游戏,Card Flipping Game,4,中等,776,"1,711",https://leetcode-cn.com/problems/card-flipping-game
+816,823. 带因子的二叉树,Binary Trees With Factors,20,中等,712,"1,938",https://leetcode-cn.com/problems/binary-trees-with-factors
+817,825. 适龄的朋友,Friends Of Appropriate Ages,31,中等,"1,772","5,469",https://leetcode-cn.com/problems/friends-of-appropriate-ages
+818,826. 安排工作以达到最大收益,Most Profit Assigning Work,20,中等,"1,947","5,776",https://leetcode-cn.com/problems/most-profit-assigning-work
+819,827. 最大人工岛,Making A Large Island,24,困难,914,"2,419",https://leetcode-cn.com/problems/making-a-large-island
+820,828. 独特字符串,Unique Letter String,31,困难,806,"2,231",https://leetcode-cn.com/problems/unique-letter-string
+821,829. 连续整数求和,Consecutive Numbers Sum,45,困难,"2,823","9,494",https://leetcode-cn.com/problems/consecutive-numbers-sum
+822,830. 较大分组的位置,Positions Of Large Groups,33,简单,"6,503","14,594",https://leetcode-cn.com/problems/positions-of-large-groups
+823,831. 隐藏个人信息,Masking Personal Information,14,中等,"2,924","7,985",https://leetcode-cn.com/problems/masking-personal-information
+824,832. 翻转图像,Flipping An Image,135,简单,"25,390","34,481",https://leetcode-cn.com/problems/flipping-an-image
+825,833. 字符串中的查找与替换,Find And Replace In String,20,中等,"1,448","4,106",https://leetcode-cn.com/problems/find-and-replace-in-string
+826,834. 树中距离之和,Sum Of Distances In Tree,38,困难,677,"2,226",https://leetcode-cn.com/problems/sum-of-distances-in-tree
+827,835. 图像重叠,Image Overlap,18,中等,"1,359","2,398",https://leetcode-cn.com/problems/image-overlap
+828,836. 矩形重叠,Rectangle Overlap,38,简单,"4,288","9,703",https://leetcode-cn.com/problems/rectangle-overlap
+829,837. 新21点,New 21 Game,43,中等,"1,163","4,769",https://leetcode-cn.com/problems/new-21-game
+830,838. 推多米诺,Push Dominoes,37,中等,"2,086","4,839",https://leetcode-cn.com/problems/push-dominoes
+831,839. 相似字符串组,Similar String Groups,18,困难,"1,090","3,826",https://leetcode-cn.com/problems/similar-string-groups
+832,840. 矩阵中的幻方,Magic Squares In Grid,24,简单,"3,741","11,493",https://leetcode-cn.com/problems/magic-squares-in-grid
+833,841. 钥匙和房间,Keys And Rooms,50,中等,"6,738","11,479",https://leetcode-cn.com/problems/keys-and-rooms
+834,842. 将数组拆分成斐波那契序列,Split Array Into Fibonacci Sequence,31,中等,"2,190","6,198",https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence
+835,843. 猜猜这个单词,Guess The Word,16,困难,563,"1,731",https://leetcode-cn.com/problems/guess-the-word
+836,844. 比较含退格的字符串,Backspace String Compare,73,简单,"12,321","24,956",https://leetcode-cn.com/problems/backspace-string-compare
+837,845. 数组中的最长山脉,Longest Mountain In Array,45,中等,"3,097","9,467",https://leetcode-cn.com/problems/longest-mountain-in-array
+838,846. 一手顺子,Hand Of Straights,32,中等,"2,730","6,114",https://leetcode-cn.com/problems/hand-of-straights
+839,847. 访问所有节点的最短路径,Shortest Path Visiting All Nodes,36,困难,974,"1,936",https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes
+840,848. 字母移位,Shifting Letters,18,中等,"2,922","7,739",https://leetcode-cn.com/problems/shifting-letters
+841,849. 到最近的人的最大距离,Maximize Distance To Closest Person,74,简单,"6,311","16,742",https://leetcode-cn.com/problems/maximize-distance-to-closest-person
+842,850. 矩形面积 II,Rectangle Area Ii,18,困难,515,"1,358",https://leetcode-cn.com/problems/rectangle-area-ii
+843,851. 喧闹和富有,Loud And Rich,13,中等,"1,117","2,673",https://leetcode-cn.com/problems/loud-and-rich
+844,852. 山脉数组的峰顶索引,Peak Index In A Mountain Array,58,简单,"17,648","25,687",https://leetcode-cn.com/problems/peak-index-in-a-mountain-array
+845,853. 车队,Car Fleet,34,中等,"2,300","6,755",https://leetcode-cn.com/problems/car-fleet
+846,854. 相似度为 K 的字符串,K Similar Strings,28,困难,892,"3,418",https://leetcode-cn.com/problems/k-similar-strings
+847,855. 考场就座,Exam Room,25,中等,823,"2,741",https://leetcode-cn.com/problems/exam-room
+848,856. 括号的分数,Score Of Parentheses,66,中等,"3,732","6,650",https://leetcode-cn.com/problems/score-of-parentheses
+849,857. 雇佣 K 名工人的最低成本,Minimum Cost To Hire K Workers,28,困难,583,"1,563",https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers
+850,858. 镜面反射,Mirror Reflection,17,中等,993,"1,989",https://leetcode-cn.com/problems/mirror-reflection
+851,859. 亲密字符串,Buddy Strings,61,简单,"7,876","28,767",https://leetcode-cn.com/problems/buddy-strings
+852,860. 柠檬水找零,Lemonade Change,82,简单,"13,278","24,950",https://leetcode-cn.com/problems/lemonade-change
+853,861. 翻转矩阵后的得分,Score After Flipping Matrix,45,中等,"3,419","4,673",https://leetcode-cn.com/problems/score-after-flipping-matrix
+854,862. 和至少为 K 的最短子数组,Shortest Subarray With Sum At Least K,91,困难,"3,926","31,857",https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k
+855,863. 二叉树中所有距离为 K 的结点,All Nodes Distance K In Binary Tree,53,中等,"2,687","6,031",https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree
+856,864. 获取所有钥匙的最短路径,Shortest Path To Get All Keys,21,困难,603,"1,565",https://leetcode-cn.com/problems/shortest-path-to-get-all-keys
+857,865. 具有所有最深结点的最小子树,Smallest Subtree With All The Deepest Nodes,36,中等,"1,505","3,074",https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes
+858,866. 回文素数,Prime Palindrome,33,中等,"2,398","13,151",https://leetcode-cn.com/problems/prime-palindrome
+859,867. 转置矩阵,Transpose Matrix,73,简单,"14,528","21,921",https://leetcode-cn.com/problems/transpose-matrix
+860,868. 二进制间距,Binary Gap,39,简单,"6,903","11,660",https://leetcode-cn.com/problems/binary-gap
+861,869. 重新排序得到 2 的幂,Reordered Power Of 2,18,中等,"2,171","4,614",https://leetcode-cn.com/problems/reordered-power-of-2
+862,870. 优势洗牌,Advantage Shuffle,37,中等,"3,617","10,734",https://leetcode-cn.com/problems/advantage-shuffle
+863,871. 最低加油次数,Minimum Number Of Refueling Stops,38,困难,"1,928","6,648",https://leetcode-cn.com/problems/minimum-number-of-refueling-stops
+864,872. 叶子相似的树,Leaf Similar Trees,42,简单,"7,851","12,787",https://leetcode-cn.com/problems/leaf-similar-trees
+865,873. 最长的斐波那契子序列的长度,Length Of Longest Fibonacci Subsequence,44,中等,"3,301","7,403",https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence
+866,874. 模拟行走机器人,Walking Robot Simulation,60,简单,"4,650","14,928",https://leetcode-cn.com/problems/walking-robot-simulation
+867,875. 爱吃香蕉的珂珂,Koko Eating Bananas,35,中等,"4,516","12,096",https://leetcode-cn.com/problems/koko-eating-bananas
+868,876. 链表的中间结点,Middle Of The Linked List,131,简单,"23,304","36,702",https://leetcode-cn.com/problems/middle-of-the-linked-list
+869,877. 石子游戏,Stone Game,90,中等,"8,864","13,220",https://leetcode-cn.com/problems/stone-game
+870,878. 第 N 个神奇数字,Nth Magical Number,33,困难,"1,367","6,578",https://leetcode-cn.com/problems/nth-magical-number
+871,879. 盈利计划,Profitable Schemes,9,困难,584,"2,018",https://leetcode-cn.com/problems/profitable-schemes
+872,880. 索引处的解码字符串,Decoded String At Index,65,中等,"1,773","8,238",https://leetcode-cn.com/problems/decoded-string-at-index
+873,881. 救生艇,Boats To Save People,28,中等,"4,891","12,745",https://leetcode-cn.com/problems/boats-to-save-people
+874,882. 细分图中的可到达结点,Reachable Nodes In Subdivided Graph,10,困难,330,902,https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph
+875,883. 三维形体投影面积,Projection Area Of 3D Shapes,28,简单,"4,425","7,068",https://leetcode-cn.com/problems/projection-area-of-3d-shapes
+876,884. 两句话中的不常见单词,Uncommon Words From Two Sentences,35,简单,"7,018","11,763",https://leetcode-cn.com/problems/uncommon-words-from-two-sentences
+877,885. 螺旋矩阵 III,Spiral Matrix Iii,20,中等,"1,273","2,051",https://leetcode-cn.com/problems/spiral-matrix-iii
+878,886. 可能的二分法,Possible Bipartition,23,中等,"1,394","4,142",https://leetcode-cn.com/problems/possible-bipartition
+879,887. 鸡蛋掉落,Super Egg Drop,144,困难,"6,159","30,289",https://leetcode-cn.com/problems/super-egg-drop
+880,888. 公平的糖果交换,Fair Candy Swap,48,简单,"7,926","15,678",https://leetcode-cn.com/problems/fair-candy-swap
+881,889. 根据前序和后序遍历构造二叉树,Construct Binary Tree From Preorder And Postorder Traversal,43,中等,"2,528","4,119",https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal
+882,890. 查找和替换模式,Find And Replace Pattern,34,中等,"3,139","4,539",https://leetcode-cn.com/problems/find-and-replace-pattern
+883,891. 子序列宽度之和,Sum Of Subsequence Widths,21,困难,903,"3,463",https://leetcode-cn.com/problems/sum-of-subsequence-widths
+884,892. 三维形体的表面积,Surface Area Of 3D Shapes,38,简单,"4,411","8,000",https://leetcode-cn.com/problems/surface-area-of-3d-shapes
+885,893. 特殊等价字符串组,Groups Of Special Equivalent Strings,42,简单,"3,633","5,630",https://leetcode-cn.com/problems/groups-of-special-equivalent-strings
+886,894. 所有可能的满二叉树,All Possible Full Binary Trees,62,中等,"3,665","5,037",https://leetcode-cn.com/problems/all-possible-full-binary-trees
+887,895. 最大频率栈,Maximum Frequency Stack,36,困难,996,"2,226",https://leetcode-cn.com/problems/maximum-frequency-stack
+888,896. 单调数列,Monotonic Array,41,简单,"10,342","20,637",https://leetcode-cn.com/problems/monotonic-array
+889,897. 递增顺序查找树,Increasing Order Search Tree,41,简单,"6,053","9,471",https://leetcode-cn.com/problems/increasing-order-search-tree
+890,898. 子数组按位或操作,Bitwise Ors Of Subarrays,27,中等,"1,695","6,698",https://leetcode-cn.com/problems/bitwise-ors-of-subarrays
+891,899. 有序队列,Orderly Queue,16,困难,"1,584","3,214",https://leetcode-cn.com/problems/orderly-queue
+892,900. RLE 迭代器,Rle Iterator,14,中等,983,"2,466",https://leetcode-cn.com/problems/rle-iterator
+893,901. 股票价格跨度,Online Stock Span,19,中等,"1,825","5,236",https://leetcode-cn.com/problems/online-stock-span
+894,902. 最大为 N 的数字组合,Numbers At Most N Given Digit Set,22,困难,983,"3,678",https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set
+895,903. DI 序列的有效排列,Valid Permutations For Di Sequence,33,困难,"1,012","2,031",https://leetcode-cn.com/problems/valid-permutations-for-di-sequence
+896,904. 水果成篮,Fruit Into Baskets,19,中等,"2,025","5,834",https://leetcode-cn.com/problems/fruit-into-baskets
+897,905. 按奇偶排序数组,Sort Array By Parity,113,简单,"26,798","39,479",https://leetcode-cn.com/problems/sort-array-by-parity
+898,906. 超级回文数,Super Palindromes,11,困难,678,"3,336",https://leetcode-cn.com/problems/super-palindromes
+899,907. 子数组的最小值之和,Sum Of Subarray Minimums,52,中等,"2,421","9,271",https://leetcode-cn.com/problems/sum-of-subarray-minimums
+900,908. 最小差值 I,Smallest Range I,36,简单,"7,891","11,777",https://leetcode-cn.com/problems/smallest-range-i
+901,909. 蛇梯棋,Snakes And Ladders,14,中等,834,"3,005",https://leetcode-cn.com/problems/snakes-and-ladders
+902,910. 最小差值 II,Smallest Range Ii,36,中等,"1,719","6,953",https://leetcode-cn.com/problems/smallest-range-ii
+903,911. 在线选举,Online Election,7,中等,816,"2,246",https://leetcode-cn.com/problems/online-election
+904,912. 排序数组,Sort An Array,33,中等,"11,773","22,688",https://leetcode-cn.com/problems/sort-an-array
+905,913. 猫和老鼠,Cat And Mouse,23,困难,307,"1,181",https://leetcode-cn.com/problems/cat-and-mouse
+906,914. 卡牌分组,X Of A Kind In A Deck Of Cards,63,简单,"7,480","23,135",https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards
+907,915. 分割数组,Partition Array Into Disjoint Intervals,27,中等,"2,873","6,875",https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals
+908,916. 单词子集,Word Subsets,18,中等,"1,650","4,417",https://leetcode-cn.com/problems/word-subsets
+909,917. 仅仅反转字母,Reverse Only Letters,32,简单,"7,026","13,378",https://leetcode-cn.com/problems/reverse-only-letters
+910,918. 环形子数组的最大和,Maximum Sum Circular Subarray,40,中等,"1,876","6,212",https://leetcode-cn.com/problems/maximum-sum-circular-subarray
+911,919. 完全二叉树插入器,Complete Binary Tree Inserter,8,中等,"1,261","2,146",https://leetcode-cn.com/problems/complete-binary-tree-inserter
+912,920. 播放列表的数量,Number Of Music Playlists,24,困难,468,"1,144",https://leetcode-cn.com/problems/number-of-music-playlists
+913,921. 使括号有效的最少添加,Minimum Add To Make Parentheses Valid,24,中等,"5,187","7,532",https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid
+914,922. 按奇偶排序数组 II,Sort Array By Parity Ii,68,简单,"20,670","31,142",https://leetcode-cn.com/problems/sort-array-by-parity-ii
+915,923. 三数之和的多种可能,3Sum With Multiplicity,17,中等,"1,661","5,483",https://leetcode-cn.com/problems/3sum-with-multiplicity
+916,924. 尽量减少恶意软件的传播,Minimize Malware Spread,16,困难,857,"2,098",https://leetcode-cn.com/problems/minimize-malware-spread
+917,925. 长按键入,Long Pressed Name,43,简单,"5,677","12,755",https://leetcode-cn.com/problems/long-pressed-name
+918,926. 将字符串翻转到单调递增,Flip String To Monotone Increasing,28,中等,"1,790","4,114",https://leetcode-cn.com/problems/flip-string-to-monotone-increasing
+919,927. 三等分,Three Equal Parts,16,困难,803,"2,809",https://leetcode-cn.com/problems/three-equal-parts
+920,928. 尽量减少恶意软件的传播 II,Minimize Malware Spread Ii,9,困难,527,"1,407",https://leetcode-cn.com/problems/minimize-malware-spread-ii
+921,929. 独特的电子邮件地址,Unique Email Addresses,93,简单,"13,055","20,418",https://leetcode-cn.com/problems/unique-email-addresses
+922,930. 和相同的二元子数组,Binary Subarrays With Sum,23,中等,"1,665","4,926",https://leetcode-cn.com/problems/binary-subarrays-with-sum
+923,931. 下降路径最小和,Minimum Falling Path Sum,25,中等,"3,584","6,136",https://leetcode-cn.com/problems/minimum-falling-path-sum
+924,932. 漂亮数组,Beautiful Array,33,中等,"2,158","3,826",https://leetcode-cn.com/problems/beautiful-array
+925,933. 最近的请求次数,Number Of Recent Calls,32,简单,"7,500","10,829",https://leetcode-cn.com/problems/number-of-recent-calls
+926,934. 最短的桥,Shortest Bridge,45,中等,"2,174","5,100",https://leetcode-cn.com/problems/shortest-bridge
+927,936. 戳印序列,Stamping The Sequence,9,困难,378,"1,311",https://leetcode-cn.com/problems/stamping-the-sequence
+928,937. 重新排列日志文件,Reorder Data In Log Files,15,简单,"2,906","5,776",https://leetcode-cn.com/problems/reorder-data-in-log-files
+929,938. 二叉搜索树的范围和,Range Sum Of Bst,71,简单,"14,718","19,462",https://leetcode-cn.com/problems/range-sum-of-bst
+930,939. 最小面积矩形,Minimum Area Rectangle,16,中等,"1,254","2,950",https://leetcode-cn.com/problems/minimum-area-rectangle
+931,940. 不同的子序列 II,Distinct Subsequences Ii,26,困难,749,"1,859",https://leetcode-cn.com/problems/distinct-subsequences-ii
+932,941. 有效的山脉数组,Valid Mountain Array,31,简单,"6,068","17,597",https://leetcode-cn.com/problems/valid-mountain-array
+933,942. 增减字符串匹配,Di String Match,94,简单,"10,552","14,915",https://leetcode-cn.com/problems/di-string-match
+934,943. 最短超级串,Find The Shortest Superstring,18,困难,368,"1,035",https://leetcode-cn.com/problems/find-the-shortest-superstring
+935,944. 删列造序,Delete Columns To Make Sorted,23,简单,"7,783","11,459",https://leetcode-cn.com/problems/delete-columns-to-make-sorted
+936,945. 使数组唯一的最小增量,Minimum Increment To Make Array Unique,21,中等,"2,909","7,034",https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique
+937,946. 验证栈序列,Validate Stack Sequences,47,中等,"4,881","9,312",https://leetcode-cn.com/problems/validate-stack-sequences
+938,947. 移除最多的同行或同列石头,Most Stones Removed With Same Row Or Column,31,中等,"1,152","2,556",https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column
+939,948. 令牌放置,Bag Of Tokens,17,中等,"2,071","5,893",https://leetcode-cn.com/problems/bag-of-tokens
+940,949. 给定数字能组成的最大时间,Largest Time For Given Digits,23,简单,"2,805","8,352",https://leetcode-cn.com/problems/largest-time-for-given-digits
+941,950. 按递增顺序显示卡牌,Reveal Cards In Increasing Order,46,中等,"4,613","6,114",https://leetcode-cn.com/problems/reveal-cards-in-increasing-order
+942,951. 翻转等价二叉树,Flip Equivalent Binary Trees,18,中等,"1,981","3,281",https://leetcode-cn.com/problems/flip-equivalent-binary-trees
+943,952. 按公因数计算最大组件大小,Largest Component Size By Common Factor,12,困难,625,"2,347",https://leetcode-cn.com/problems/largest-component-size-by-common-factor
+944,953. 验证外星语词典,Verifying An Alien Dictionary,22,简单,"3,755","6,652",https://leetcode-cn.com/problems/verifying-an-alien-dictionary
+945,954. 二倍数对数组,Array Of Doubled Pairs,14,中等,"1,737","6,896",https://leetcode-cn.com/problems/array-of-doubled-pairs
+946,955. 删列造序 II,Delete Columns To Make Sorted Ii,21,中等,922,"3,421",https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii
+947,956. 最高的广告牌,Tallest Billboard,19,困难,741,"2,080",https://leetcode-cn.com/problems/tallest-billboard
+948,957. N 天后的牢房,Prison Cells After N Days,34,中等,"4,177","12,820",https://leetcode-cn.com/problems/prison-cells-after-n-days
+949,958. 二叉树的完全性检验,Check Completeness Of A Binary Tree,21,中等,"2,537","5,530",https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree
+950,959. 由斜杠划分区域,Regions Cut By Slashes,32,中等,"1,176","1,874",https://leetcode-cn.com/problems/regions-cut-by-slashes
+951,960. 删列造序 III,Delete Columns To Make Sorted Iii,18,困难,596,"1,275",https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii
+952,961. 重复 N 次的元素,N Repeated Element In Size 2N Array,51,简单,"16,570","25,121",https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array
+953,962. 最大宽度坡,Maximum Width Ramp,28,中等,"2,631","7,531",https://leetcode-cn.com/problems/maximum-width-ramp
+954,963. 最小面积矩形 II,Minimum Area Rectangle Ii,18,中等,900,"1,826",https://leetcode-cn.com/problems/minimum-area-rectangle-ii
+955,964. 表示数字的最少运算符,Least Operators To Express Number,12,困难,313,996,https://leetcode-cn.com/problems/least-operators-to-express-number
+956,965. 单值二叉树,Univalued Binary Tree,28,简单,"9,379","14,207",https://leetcode-cn.com/problems/univalued-binary-tree
+957,966. 元音拼写检查器,Vowel Spellchecker,10,中等,846,"2,409",https://leetcode-cn.com/problems/vowel-spellchecker
+958,967. 连续差相同的数字,Numbers With Same Consecutive Differences,10,中等,"1,756","5,210",https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences
+959,968. 监控二叉树,Binary Tree Cameras,24,困难,"1,147","3,280",https://leetcode-cn.com/problems/binary-tree-cameras
+960,969. 煎饼排序,Pancake Sorting,29,中等,"2,814","4,575",https://leetcode-cn.com/problems/pancake-sorting
+961,970. 强整数,Powerful Integers,23,简单,"4,153","10,874",https://leetcode-cn.com/problems/powerful-integers
+962,971. 翻转二叉树以匹配先序遍历,Flip Binary Tree To Match Preorder Traversal,12,中等,"1,010","2,447",https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal
+963,972. 相等的有理数,Equal Rational Numbers,7,困难,483,"1,165",https://leetcode-cn.com/problems/equal-rational-numbers
+964,973. 最接近原点的 K 个点,K Closest Points To Origin,34,中等,"7,876","13,812",https://leetcode-cn.com/problems/k-closest-points-to-origin
+965,974. 和可被 K 整除的子数组,Subarray Sums Divisible By K,32,中等,"1,869","5,212",https://leetcode-cn.com/problems/subarray-sums-divisible-by-k
+966,975. 奇偶跳,Odd Even Jump,25,困难,777,"1,878",https://leetcode-cn.com/problems/odd-even-jump
+967,976. 三角形的最大周长,Largest Perimeter Triangle,40,简单,"9,659","17,751",https://leetcode-cn.com/problems/largest-perimeter-triangle
+968,977. 有序数组的平方,Squares Of A Sorted Array,63,简单,"25,957","36,569",https://leetcode-cn.com/problems/squares-of-a-sorted-array
+969,978. 最长湍流子数组,Longest Turbulent Subarray,23,中等,"2,378","6,468",https://leetcode-cn.com/problems/longest-turbulent-subarray
+970,979. 在二叉树中分配硬币,Distribute Coins In Binary Tree,50,中等,"1,812","2,827",https://leetcode-cn.com/problems/distribute-coins-in-binary-tree
+971,980. 不同路径 III,Unique Paths Iii,28,困难,"2,642","3,853",https://leetcode-cn.com/problems/unique-paths-iii
+972,981. 基于时间的键值存储,Time Based Key Value Store,9,中等,925,"2,804",https://leetcode-cn.com/problems/time-based-key-value-store
+973,982. 按位与为零的三元组,Triples With Bitwise And Equal To Zero,9,困难,807,"1,695",https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero
+974,983. 最低票价,Minimum Cost For Tickets,63,中等,"3,484","6,276",https://leetcode-cn.com/problems/minimum-cost-for-tickets
+975,984. 不含 AAA 或 BBB 的字符串,String Without Aaa Or Bbb,29,中等,"2,677","7,833",https://leetcode-cn.com/problems/string-without-aaa-or-bbb
+976,985. 查询后的偶数和,Sum Of Even Numbers After Queries,29,简单,"6,611","11,337",https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries
+977,986. 区间列表的交集,Interval List Intersections,21,中等,"3,182","5,312",https://leetcode-cn.com/problems/interval-list-intersections
+978,987. 二叉树的垂序遍历,Vertical Order Traversal Of A Binary Tree,13,中等,"1,351","3,665",https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree
+979,988. 从叶结点开始的最小字符串,Smallest String Starting From Leaf,11,中等,"1,934","4,604",https://leetcode-cn.com/problems/smallest-string-starting-from-leaf
+980,989. 数组形式的整数加法,Add To Array Form Of Integer,38,简单,"7,685","18,103",https://leetcode-cn.com/problems/add-to-array-form-of-integer
+981,990. 等式方程的可满足性,Satisfiability Of Equality Equations,25,中等,"1,593","4,315",https://leetcode-cn.com/problems/satisfiability-of-equality-equations
+982,991. 坏了的计算器,Broken Calculator,35,中等,"2,811","5,611",https://leetcode-cn.com/problems/broken-calculator
+983,992. K 个不同整数的子数组,Subarrays With K Different Integers,40,困难,"1,952","8,334",https://leetcode-cn.com/problems/subarrays-with-k-different-integers
+984,993. 二叉树的堂兄弟节点,Cousins In Binary Tree,32,简单,"4,498","9,177",https://leetcode-cn.com/problems/cousins-in-binary-tree
+985,994. 腐烂的橘子,Rotting Oranges,57,简单,"5,562","12,050",https://leetcode-cn.com/problems/rotting-oranges
+986,995. K 连续位的最小翻转次数,Minimum Number Of K Consecutive Bit Flips,16,困难,966,"2,557",https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips
+987,996. 正方形数组的数目,Number Of Squareful Arrays,14,困难,876,"2,079",https://leetcode-cn.com/problems/number-of-squareful-arrays
+988,997. 找到小镇的法官,Find The Town Judge,34,简单,"9,588","19,526",https://leetcode-cn.com/problems/find-the-town-judge
+989,998. 最大二叉树 II,Maximum Binary Tree Ii,14,中等,"1,290","2,307",https://leetcode-cn.com/problems/maximum-binary-tree-ii
+990,999. 车的可用捕获量,Available Captures For Rook,20,简单,"4,333","6,643",https://leetcode-cn.com/problems/available-captures-for-rook
+991,1000. 合并石头的最低成本,Minimum Cost To Merge Stones,41,困难,701,"2,502",https://leetcode-cn.com/problems/minimum-cost-to-merge-stones
