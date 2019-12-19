@@ -63,13 +63,11 @@ def main():
         problem = problem_list[i]
         driver = webdriver.Chrome(executable_path=path)
         problem_info = get_problem_info(driver, problem)
-        # print("rate is: {:.2%}, infomation is: {}".format((1-(len(noinfo)/len(problem_list))) , problem_info))
         print(problem_info)
         driver.quit()
         if problem_info:
             info.append(problem_info)
         else:
-            # info.append([])
             noinfo.append(i)
         save_to_csv(info,k)
     print(info)
